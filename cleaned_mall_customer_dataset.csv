@@ -1,0 +1,633 @@
+CustomerID,CustomerName,Age,Gender,AnnualIncome_INR,IncomeCurrency,SpendingScore_1_100,MembershipTier,JoinDate,LastPurchaseDate,VisitFrequency,AvgBasketValue_INR,TotalPurchases,OnlinePurchases,StorePurchases,PreferredCategory,City,Country,EmailProvider,DeviceType,PaymentMethod,LoyaltyPoints,SatisfactionRating_1_5,CouponUsed,ChurnNextMonth
+CUST100001,Diya Verma,42,Female,241279.0,INR,57,Silver,2024-02-24,2024-09-14,Rarely,758.43,41,3,38,Beauty,Bengaluru,India,gmail.com,Android,Credit Card,1438.0,2,Yes,False
+CUST100002,Aditya Nair,52,Male,1135484.0,INR,61,Gold,2025-02-02,2025-10-10,Weekly,2132.28,6,4,2,Sports,Pune,India,hotmail.com,Android,Credit Card,865.0,1,Yes,False
+CUST100003,Saanvi Kumar,27,Male,241860.0,INR,64,Silver,2022-05-30,2023-12-17,Rarely,2269.85,10,0,10,Electronics,Lucknow,India,gmail.com,Android,UPI,2472.0,1,No,False
+CUST100004,Vihaan Iyer,27,Female,470187.0,INR,86,Silver,2024-01-31,2024-07-18,Rarely,723.67,30,29,1,Food Court,Pune,India,gmail.com,Android,Credit Card,1700.0,3,No,False
+CUST100005,Krishna Rao,25,Male,630873.0,INR,53,Basic,2022-01-25,2022-05-01,Monthly,12062.69,38,21,17,Fashion,Bengaluru,India,hotmail.com,Desktop,Credit Card,1203.0,2,Yes,False
+CUST100006,Vihaan Iyer,41,Male,736970.0,INR,51,Basic,2021-04-30,2022-12-14,Monthly,957.19,11,4,7,Gaming,Kolkata,India,gmail.com,Android,Wallet,2332.0,1,No,False
+CUST100007,Reyansh Mehta,34,Female,844350.0,INR,68,Silver,2021-11-20,2023-02-11,Weekly,3903.16,13,6,7,Home Decor,Pune,India,outlook.com,iOS,Debit Card,1182.0,1,No,False
+CUST100008,Sai Mishra,27,Male,693450.0,INR,50,Gold,2023-01-17,2025-04-11,Rarely,1638.04,0,0,0,Food Court,Kolkata,India,yahoo.com,Desktop,UPI,855.0,2,No,False
+CUST100009,Myra Nair,22,Female,1020287.0,INR,88,Platinum,2024-08-06,2026-01-09,Weekly,1850.87,8,2,6,Food Court,Ahmedabad,India,gmail.com,Desktop,Credit Card,553.0,3,No,False
+CUST100010,Ishaan Chopra,49,Female,821121.0,INR,41,Gold,2024-01-28,2026-05-30,Monthly,2226.43,19,7,12,Food Court,Pune,India,outlook.com,Android,UPI,1057.0,5,Yes,False
+CUST100011,Sai Sinha,34,Female,837540.0,INR,67,Basic,2024-11-26,2026-05-10,Monthly,283.96,8,1,7,Kids,Bengaluru,India,company.com,iOS,Wallet,412.0,4,No,False
+CUST100012,Ananya Joshi,34,Male,570610.0,INR,38,Basic,2024-11-25,2024-12-15,Daily,970.5,12,0,12,Kids,Jaipur,India,gmail.com,iOS,Credit Card,1497.0,3,Yes,False
+CUST100013,Reyansh Rao,33,Female,609387.0,INR,74,Gold,2021-02-09,2023-03-18,Daily,1272.03,6,4,2,Fashion,Hyderabad,India,gmail.com,iOS,Credit Card,852.0,1,No,False
+CUST100014,Kiara Kapoor,28,Male,90645178.5,USD,48,Platinum,2023-01-29,2023-04-09,Monthly,1276.17,19,16,3,Books,Bengaluru,India,company.com,Android,Debit Card,679.0,4,No,False
+CUST100015,Saanvi Verma,55,Other,444057.0,INR,62,Silver,2022-01-27,2022-04-24,Weekly,2088.18,7,6,1,Home Decor,Chennai,India,yahoo.com,Android,UPI,1001.0,3,No,False
+CUST100016,Aadhya Khan,25,Female,213481.0,INR,23,Silver,2022-09-12,2022-09-26,Monthly,1194.35,16,15,1,Fashion,Mumbai,India,gmail.com,Desktop,Debit Card,613.0,1,No,False
+CUST100017,Vivaan Iyer,39,Male,1225084.0,INR,54,Basic,2024-04-20,2025-07-03,Monthly,3803.1,5,2,3,Home Decor,Bengaluru,India,gmail.com,Android,Debit Card,840.0,2,No,False
+CUST100018,Saanvi Rao,31,Female,736970.0,INR,32,Basic,2021-06-14,2023-02-16,Weekly,1802.16,6,2,4,Fashion,Bengaluru,India,gmail.com,Desktop,Credit Card,1472.0,3,Yes,False
+CUST100019,Sara Patel,27,Other,1254616.0,INR,100,Gold,2023-11-28,2024-12-02,Monthly,1709.26,7,1,6,Electronics,Ahmedabad,India,gmail.com,iOS,Credit Card,1511.0,5,Yes,False
+CUST100020,Aadhya Khan,34,Male,619742.0,INR,25,Basic,2022-07-02,2024-10-19,Monthly,682.0,3,0,3,Beauty,Delhi,India,company.com,Desktop,Credit Card,570.0,3,No,True
+CUST100021,Amit Patel,30,Female,653437.0,INR,55,Gold,2023-03-26,2025-01-19,Monthly,806.78,38,16,22,Grocery,Mumbai,India,gmail.com,Desktop,UPI,848.0,1,Yes,False
+CUST100022,Reyansh Joshi,28,Male,877245.0,INR,94,Basic,2023-07-31,2024-04-17,Weekly,695.0,17,4,13,Home Decor,Kolkata,India,rediffmail.com,iOS,UPI,1826.0,4,No,False
+CUST100023,Saanvi Mehta,49,Other,911335.0,INR,35,Basic,2024-09-12,2025-01-30,Weekly,4085.16,4,0,4,Books,Hyderabad,India,outlook.com,Android,Credit Card,1355.0,4,No,False
+CUST100024,Vihaan Iyer,39,Female,343253.0,INR,70,Platinum,2021-02-21,2022-11-17,Monthly,932.47,25,6,19,Kids,Chennai,India,outlook.com,Desktop,Credit Card,1636.0,1,No,False
+CUST100025,Ananya Singh,44,Female,220648.0,INR,59,Silver,2021-09-08,2024-08-20,Daily,824.44,1,0,1,Electronics,Pune,India,yahoo.com,Android,Debit Card,1539.0,5,No,False
+CUST100026,Kiara Singh,53,Female,531448.0,INR,53,Basic,2023-10-29,2024-06-11,Monthly,1834.74,24,11,13,Books,Lucknow,India,gmail.com,Android,Credit Card,406.0,4,No,True
+CUST100027,Vivaan Kapoor,43,Other,1613314.0,INR,29,Gold,2025-02-03,2025-05-11,Monthly,3627.07,10,2,8,Beauty,Bengaluru,India,gmail.com,Desktop,Credit Card,222.0,1,Yes,False
+CUST100028,Amit Chopra,41,Female,40540586.0,USD,29,Basic,2024-11-21,2025-08-21,Rarely,2711.87,14,12,2,Books,Ahmedabad,India,outlook.com,Android,Credit Card,2015.0,4,Yes,False
+CUST100029,Aditya Joshi,25,Female,374892.0,INR,40,Platinum,2022-03-28,2023-05-06,Monthly,1850.87,3,1,2,Gaming,Ahmedabad,India,rediffmail.com,iOS,Credit Card,1751.0,3,No,False
+CUST100030,Reyansh Gupta,43,Male,1368516.0,INR,63,Gold,2022-09-28,2024-10-30,Monthly,1894.23,34,8,26,Sports,Mumbai,India,gmail.com,Desktop,Debit Card,1065.0,2,Yes,False
+CUST100031,Rahul Gupta,38,Other,558960.0,INR,26,Basic,2023-11-05,2024-12-02,Rarely,5901.35,0,0,0,Gaming,Pune,India,gmail.com,Desktop,Credit Card,2308.0,4,No,True
+CUST100032,Diya Sharma,48,Other,515028.0,INR,42,Basic,2021-10-17,2022-10-10,Monthly,1076.75,34,32,2,Food Court,Lucknow,India,yahoo.com,iOS,Credit Card,1523.0,5,Yes,False
+CUST100033,Pooja Joshi,43,Male,72474159.0,USD,59,Platinum,2023-01-17,2024-12-09,Monthly,2423.89,3,2,1,Electronics,Jaipur,India,company.com,Desktop,Credit Card,136.0,2,No,False
+CUST100034,Pooja Sinha,53,Male,1033209.0,INR,48,Gold,2023-03-23,2024-08-18,Monthly,1850.87,2,0,2,Kids,Jaipur,India,hotmail.com,iOS,Credit Card,2596.0,2,No,True
+CUST100035,Aditya Verma,28,Female,1677274.0,INR,57,Gold,2022-01-19,2023-11-30,Rarely,1158.01,13,3,10,Books,Lucknow,India,gmail.com,Desktop,Debit Card,0.0,1,Yes,False
+CUST100036,Myra Khan,34,Female,104947643.0,USD,58,Basic,2022-09-28,2024-03-08,Monthly,3717.51,6,0,6,Home Decor,Ahmedabad,India,yahoo.com,Desktop,Debit Card,490.0,3,Yes,False
+CUST100037,Arjun Rao,29,Female,542522.0,INR,71,Basic,2024-08-02,2024-09-29,Monthly,2338.02,10,4,6,Kids,Bengaluru,India,gmail.com,Android,Credit Card,1310.0,4,Yes,False
+CUST100038,Diya Chopra,23,Male,788894.0,INR,60,Platinum,2021-06-01,2022-09-06,Monthly,1151.93,5,2,3,Books,Ahmedabad,India,outlook.com,iOS,Credit Card,198.0,3,Yes,False
+CUST100039,Ira Patel,34,Female,560830.0,INR,48,Basic,2023-10-27,2026-04-03,Weekly,2673.45,37,28,9,Gaming,Ahmedabad,India,gmail.com,iOS,UPI,1738.0,3,Yes,False
+CUST100040,Arjun Verma,59,Male,1198552.0,INR,38,Gold,2024-11-03,2025-12-23,Rarely,1608.71,17,4,13,Sports,Pune,India,gmail.com,iOS,Credit Card,615.0,3,No,False
+CUST100041,Diya Reddy,43,Male,736970.0,INR,7,Silver,2023-03-17,2024-08-15,Monthly,1793.32,99,46,53,Fashion,Mumbai,India,gmail.com,iOS,Debit Card,1595.0,1,No,False
+CUST100042,Aarav Verma,24,Female,708383.0,INR,37,Platinum,2021-11-02,2023-07-15,Monthly,4061.04,0,0,0,Grocery,Chennai,India,hotmail.com,Android,Debit Card,804.0,5,Yes,False
+CUST100043,Ira Verma,35,Female,970171.0,INR,33,Silver,2024-11-15,2025-06-11,Monthly,1357.03,22,4,18,Food Court,Lucknow,India,hotmail.com,iOS,Wallet,643.0,4,No,False
+CUST100044,Arjun Kumar,32,Male,498636.0,INR,59,Basic,2022-12-08,2025-02-06,Monthly,4173.67,3,1,2,Kids,Ahmedabad,India,gmail.com,iOS,Credit Card,701.0,5,No,False
+CUST100045,Amit Das,47,Male,1286421.0,INR,55,Silver,2022-08-08,2024-05-30,Rarely,2856.94,37,17,20,Books,Mumbai,India,gmail.com,Android,Debit Card,1361.0,2,No,True
+CUST100046,Pooja Mehta,32,Female,626150.0,INR,67,Basic,2025-03-31,2025-07-07,Rarely,4277.44,5,0,5,Books,Jaipur,India,yahoo.com,Android,Wallet,1200.0,2,No,False
+CUST100047,Sai Khan,28,Male,104734968.5,USD,25,Gold,2023-05-02,2025-04-19,Monthly,4040.04,57,26,31,Sports,Pune,India,gmail.com,Android,Debit Card,1957.0,2,No,False
+CUST100048,Aditya Kapoor,39,Male,770090.0,INR,71,Gold,2021-05-11,2022-11-16,Rarely,737.29,0,0,0,Beauty,Hyderabad,India,gmail.com,iOS,Debit Card,1267.0,4,Yes,False
+CUST100049,Saanvi Das,28,Male,622037.0,INR,65,Basic,2025-04-18,2025-04-26,Daily,3573.06,36,28,8,Books,Jaipur,India,gmail.com,Android,Credit Card,449.0,4,Yes,True
+CUST100050,Ayaan Mehta,39,Male,799921.0,INR,100,Gold,2022-09-07,2023-09-27,Weekly,2758.34,20,15,5,Fashion,Lucknow,India,rediffmail.com,Android,Credit Card,931.0,4,Yes,False
+CUST100051,Reyansh Verma,35,Female,1127917.0,INR,69,Basic,2022-05-12,2024-04-23,Monthly,6558.55,3,0,3,Grocery,Jaipur,India,rediffmail.com,iOS,Debit Card,440.0,3,No,False
+CUST100052,Rahul Iyer,32,Male,1218257.0,INR,48,Silver,2022-12-23,2023-06-14,Monthly,1490.61,32,29,3,Grocery,Lucknow,India,company.com,Android,UPI,740.0,1,Yes,True
+CUST100053,Myra Joshi,47,Male,1516458.0,INR,57,Silver,2022-06-01,2024-09-12,Daily,749.19,2,0,2,Beauty,Kolkata,India,gmail.com,Android,Cash,469.0,1,No,False
+CUST100054,Pooja Joshi,34,Female,634430.0,INR,97,Silver,2024-03-06,2025-04-08,Monthly,995.52,14,0,14,Sports,Lucknow,India,gmail.com,Desktop,Credit Card,572.0,4,No,False
+CUST100055,Aarav Das,47,Male,1732339.0,INR,70,Gold,2021-08-07,2021-11-08,Rarely,2826.5,3,2,1,Food Court,Kolkata,India,outlook.com,Desktop,Wallet,1025.0,1,No,False
+CUST100056,Neha Nair,37,Female,421276.0,INR,59,Platinum,2021-08-08,2021-12-24,Monthly,2091.37,52,36,16,Sports,Bengaluru,India,gmail.com,Desktop,UPI,597.0,5,No,False
+CUST100057,Rahul Patel,40,Female,167813.0,INR,54,Gold,2022-09-13,2023-05-18,Rarely,2331.08,2,0,2,Gaming,Lucknow,India,yahoo.com,Android,Credit Card,93.0,4,No,False
+CUST100058,Ananya Patel,28,Female,774459.0,INR,37,Gold,2021-08-03,2022-06-01,Daily,1850.87,20,13,7,Electronics,Jaipur,India,outlook.com,Android,Debit Card,1715.0,3,No,False
+CUST100059,Kiara Joshi,35,Female,283960.0,INR,77,Gold,2021-01-10,2023-01-01,Rarely,1606.49,0,0,0,Gaming,Ahmedabad,India,gmail.com,iOS,Debit Card,710.0,2,No,False
+CUST100060,Sara Rao,36,Female,245046.0,INR,44,Basic,2021-10-15,2022-04-24,Rarely,1850.87,8,1,7,Home Decor,Bengaluru,India,company.com,Android,Credit Card,1373.0,5,Yes,False
+CUST100061,Kiara Singh,37,Male,320154.0,INR,14,Basic,2021-03-08,2022-06-11,Daily,2852.71,23,12,11,Kids,Pune,India,outlook.com,Desktop,Wallet,718.0,5,Yes,False
+CUST100062,Aditya Kapoor,34,Female,23943040.5,USD,57,Basic,2021-06-04,2023-03-14,Monthly,2341.94,12,6,6,Home Decor,Jaipur,India,outlook.com,Android,UPI,226.0,1,No,False
+CUST100063,Aditya Singh,49,Female,622302.0,INR,77,Basic,2021-09-28,2023-07-25,Rarely,1850.87,11,0,11,Fashion,Hyderabad,India,yahoo.com,Android,Credit Card,943.0,4,No,False
+CUST100064,Meera Joshi,36,Female,12357666.0,USD,60,Gold,2024-06-03,2026-03-30,Monthly,504.71,2,1,1,Fashion,Bengaluru,India,gmail.com,iOS,Cash,124.0,1,Yes,False
+CUST100065,Kiara Singh,34,Other,646475.0,INR,62,Gold,2024-10-30,2025-04-24,Rarely,2067.69,15,8,7,Electronics,Kolkata,India,yahoo.com,iOS,Credit Card,1273.0,5,No,False
+CUST100066,Neha Patel,22,Male,255292.0,INR,38,Gold,2022-12-12,2024-05-30,Weekly,2454.3,3,0,3,Electronics,Hyderabad,India,yahoo.com,iOS,Cash,377.0,4,No,True
+CUST100067,Aditya Kapoor,34,Female,570812.0,INR,79,Basic,2025-01-15,2025-12-08,Weekly,1123.31,36,19,17,Gaming,Hyderabad,India,company.com,Android,Credit Card,2133.0,1,Yes,False
+CUST100068,Vihaan Chopra,18,Female,723894.0,INR,74,Platinum,2022-05-03,2023-07-06,Rarely,608.97,25,9,16,Beauty,Hyderabad,India,gmail.com,Desktop,Credit Card,1235.0,3,No,False
+CUST100069,Vivaan Das,26,Other,865268.0,INR,59,Silver,2022-03-02,2023-06-07,Weekly,6651.08,9,3,6,Kids,Chennai,India,yahoo.com,Desktop,Credit Card,1810.0,3,Yes,False
+CUST100070,Reyansh Gupta,47,Female,33747109.5,USD,63,Platinum,2021-09-21,2021-12-24,Rarely,1850.87,14,13,1,Home Decor,Mumbai,India,company.com,Android,Credit Card,1095.0,4,Yes,True
+CUST100071,Ira Reddy,21,Male,736970.0,INR,24,Basic,2022-10-21,2023-11-22,Monthly,1134.03,23,10,13,Books,Delhi,India,gmail.com,Desktop,UPI,2955.0,5,No,False
+CUST100072,Aditya Verma,33,Female,745713.0,INR,100,Platinum,2023-09-06,2023-09-06,Weekly,2057.0,13,3,10,Books,Lucknow,India,rediffmail.com,Android,UPI,1098.0,3,No,False
+CUST100073,Krishna Kumar,35,Female,719636.0,INR,39,Platinum,2024-06-06,2025-01-18,Monthly,9546.39,19,2,17,Electronics,Lucknow,India,gmail.com,Android,Credit Card,718.0,3,No,False
+CUST100074,Amit Kapoor,36,Other,1024852.0,INR,93,Silver,2024-01-26,2024-04-30,Weekly,989.95,5,1,4,Gaming,Lucknow,India,gmail.com,Android,Credit Card,1761.0,2,Yes,False
+CUST100075,Priya Verma,29,Female,25275700.5,USD,56,Basic,2022-06-27,2022-09-28,Weekly,1261.32,12,1,11,Beauty,Lucknow,India,company.com,Android,Debit Card,857.0,3,No,False
+CUST100076,Aadhya Sharma,31,Other,663077.0,INR,41,Basic,2021-03-29,2022-06-05,Monthly,1137.23,2,1,1,Beauty,Hyderabad,India,yahoo.com,iOS,Credit Card,387.0,3,Yes,False
+CUST100077,Aadhya Nair,34,Female,76349143.5,USD,43,Basic,2025-03-08,2025-11-06,Daily,1354.48,4,1,3,Grocery,Chennai,India,gmail.com,Android,Credit Card,1286.0,4,No,False
+CUST100078,Sai Nair,24,Male,420783.0,INR,50,Basic,2023-09-29,2025-05-29,Weekly,2448.05,30,15,15,Beauty,Lucknow,India,company.com,Desktop,Debit Card,700.0,1,Yes,True
+CUST100079,Arjun Chopra,34,Female,1296777.0,INR,21,Basic,2024-10-18,2026-04-04,Monthly,989.51,41,34,7,Electronics,Pune,India,company.com,iOS,Wallet,1525.0,5,Yes,False
+CUST100080,Ayaan Das,27,Female,1023442.0,INR,42,Gold,2024-09-08,2026-04-02,Rarely,1913.0,11,10,1,Fashion,Hyderabad,India,yahoo.com,Android,Cash,346.0,3,No,False
+CUST100081,Aarav Khan,22,Female,981429.0,INR,50,Basic,2023-07-15,2024-04-20,Rarely,1850.87,8,6,2,Food Court,Kolkata,India,gmail.com,Desktop,Credit Card,1200.0,4,No,False
+CUST100082,Kiara Reddy,39,Other,1414744.0,INR,31,Gold,2025-07-21,2025-07-21,Monthly,1440.01,21,2,19,Fashion,Mumbai,India,yahoo.com,Android,Wallet,1095.0,1,Yes,True
+CUST100083,Ayaan Sharma,28,Female,801895.0,INR,85,Gold,2022-08-02,2022-11-26,Rarely,1871.57,1,1,0,Electronics,Hyderabad,India,yahoo.com,iOS,Cash,0.0,1,No,False
+CUST100084,Arjun Reddy,26,Female,626112.0,INR,72,Platinum,2023-01-03,2024-03-26,Rarely,2319.08,28,9,19,Sports,Pune,India,rediffmail.com,Desktop,UPI,1332.0,4,Yes,False
+CUST100085,Ananya Iyer,21,Female,1249913.0,INR,57,Silver,2024-12-05,2025-03-12,Weekly,1163.61,19,0,19,Beauty,Mumbai,India,company.com,Android,Debit Card,1939.0,3,No,False
+CUST100086,Pooja Iyer,34,Female,317729.0,INR,73,Silver,2024-02-26,2024-09-24,Monthly,9008.45,13,0,13,Fashion,Chennai,India,outlook.com,Desktop,Credit Card,1602.0,3,No,False
+CUST100087,Myra Mishra,34,Other,539991.0,INR,45,Basic,2024-09-10,2026-05-06,Rarely,3404.22,1,0,1,Home Decor,Bengaluru,India,rediffmail.com,Android,Wallet,1158.0,2,No,False
+CUST100088,Aarav Joshi,28,Female,760152.0,INR,49,Silver,2022-10-23,2024-10-19,Weekly,1829.74,20,19,1,Electronics,Chennai,India,outlook.com,Android,Wallet,1778.0,4,No,False
+CUST100089,Aadhya Gupta,34,Male,701204.0,INR,45,Platinum,2025-06-03,2026-05-19,Daily,4409.5,27,8,19,Fashion,Chennai,India,gmail.com,Android,Wallet,1226.0,3,No,False
+CUST100090,Ira Sharma,20,Female,1772626.0,INR,25,Basic,2023-12-03,2024-02-10,Monthly,3847.57,6,4,2,Gaming,Pune,India,gmail.com,Desktop,Credit Card,313.0,2,No,False
+CUST100091,Aadhya Khan,47,Male,1099328.0,INR,59,Silver,2021-07-16,2022-01-03,Daily,1399.12,12,3,9,Fashion,Pune,India,rediffmail.com,Android,Credit Card,267.0,4,Yes,True
+CUST100092,Priya Verma,34,Male,736970.0,INR,56,Silver,2024-05-27,2024-08-23,Rarely,761.06,20,1,19,Grocery,Bengaluru,India,gmail.com,iOS,Wallet,337.0,5,Yes,False
+CUST100093,Priya Das,39,Female,956877.0,INR,100,Basic,2022-08-19,2024-07-06,Daily,1611.42,16,4,12,Beauty,Chennai,India,hotmail.com,Android,Credit Card,1585.0,5,No,False
+CUST100094,Ira Kapoor,37,Male,1262377.0,INR,45,Platinum,2024-01-09,2024-07-28,Rarely,3078.55,3,1,2,Gaming,Chennai,India,gmail.com,Android,Credit Card,1973.0,2,No,False
+CUST100095,Rahul Mehta,45,Other,739490.0,INR,22,Basic,2023-01-05,2023-02-15,Monthly,3239.72,10,1,9,Beauty,Delhi,India,gmail.com,Desktop,Cash,1336.0,4,No,False
+CUST100096,Meera Gupta,31,Male,634625.0,INR,42,Silver,2023-01-12,2024-09-19,Rarely,1140.3,3,0,3,Electronics,Chennai,India,rediffmail.com,Android,Wallet,1195.0,4,Yes,False
+CUST100097,Saanvi Kumar,56,Other,736970.0,INR,52,Platinum,2023-07-18,2025-03-19,Rarely,462.09,3,1,2,Grocery,Lucknow,India,gmail.com,Desktop,UPI,1807.0,5,Yes,False
+CUST100098,Neha Khan,41,Female,178737.0,INR,33,Platinum,2025-04-18,2025-04-18,Weekly,1582.79,23,18,5,Home Decor,Kolkata,India,gmail.com,Desktop,Cash,1788.0,1,Yes,False
+CUST100099,Aditya Mehta,40,Female,171328.0,INR,80,Basic,2025-03-12,2025-07-07,Weekly,6878.25,26,10,16,Beauty,Ahmedabad,India,gmail.com,Desktop,Debit Card,1605.0,1,Yes,False
+CUST100100,Krishna Iyer,34,Female,789104.0,INR,57,Basic,2023-03-30,2024-03-25,Weekly,863.82,4,0,4,Home Decor,Jaipur,India,yahoo.com,Android,Credit Card,1354.0,5,No,False
+CUST100101,Aditya Joshi,43,Male,818972.0,INR,2,Gold,2023-08-02,2025-03-24,Daily,5389.38,14,10,4,Sports,Bengaluru,India,gmail.com,Desktop,Cash,1200.0,4,No,False
+CUST100102,Arjun Reddy,30,Female,84558362.5,USD,55,Basic,2024-06-11,2024-06-17,Weekly,3524.97,2,0,2,Books,Delhi,India,yahoo.com,Android,Debit Card,2102.0,5,No,True
+CUST100103,Amit Singh,30,Male,252596.0,INR,61,Platinum,2022-03-08,2023-05-11,Daily,1275.86,5,1,4,Kids,Delhi,India,gmail.com,Android,UPI,1475.0,3,No,False
+CUST100106,Aarav Sinha,29,Other,57226808.5,USD,26,Silver,2022-09-27,2023-09-17,Weekly,1850.87,11,7,4,Gaming,Pune,India,gmail.com,Android,Credit Card,987.0,2,No,False
+CUST100107,Sai Kumar,43,Male,549820.0,INR,85,Basic,2025-07-15,2025-11-29,Weekly,612.69,9,2,7,Electronics,Delhi,India,gmail.com,Desktop,Wallet,1249.0,4,No,False
+CUST100108,Myra Das,36,Female,551526.0,INR,85,Silver,2022-05-28,2024-09-10,Weekly,1926.47,0,0,0,Fashion,Chennai,India,gmail.com,Android,UPI,0.0,1,No,False
+CUST100109,Aadhya Nair,41,Female,50957461.5,USD,52,Gold,2024-05-06,2024-10-11,Weekly,3606.99,15,5,10,Grocery,Delhi,India,gmail.com,Android,Debit Card,1286.0,3,No,False
+CUST100110,Priya Sinha,28,Other,475337.0,INR,19,Basic,2023-01-22,2024-04-30,Monthly,1259.74,4,1,3,Books,Chennai,India,yahoo.com,Android,Debit Card,450.0,5,No,True
+CUST100112,Myra Kapoor,34,Female,1176536.0,INR,48,Gold,2023-12-30,2025-09-04,Rarely,1832.02,2,0,2,Beauty,Bengaluru,India,gmail.com,Android,Debit Card,544.0,3,No,False
+CUST100113,Rahul Das,41,Female,302652.0,INR,53,Basic,2021-11-16,2022-04-06,Daily,684.16,31,28,3,Books,Pune,India,yahoo.com,Android,UPI,1306.0,3,No,False
+CUST100114,Riya Kapoor,27,Male,44788732.0,USD,70,Basic,2023-06-04,2024-03-26,Monthly,2002.1,5,0,5,Kids,Hyderabad,India,gmail.com,Desktop,UPI,1820.0,4,Yes,False
+CUST100115,Aadhya Sinha,28,Male,526505.0,INR,34,Silver,2021-04-02,2023-07-18,Daily,1649.94,0,0,0,Home Decor,Bengaluru,India,gmail.com,Desktop,Credit Card,1200.0,2,No,False
+CUST100116,Vivaan Iyer,19,Male,247217.0,INR,85,Gold,2022-08-23,2025-01-27,Monthly,1471.36,0,0,0,Grocery,Hyderabad,India,gmail.com,Android,Credit Card,1510.0,5,No,True
+CUST100117,Neha Chopra,50,Male,58327839.5,USD,23,Platinum,2024-10-20,2025-06-09,Rarely,3336.53,39,26,13,Electronics,Pune,India,gmail.com,iOS,Debit Card,338.0,2,Yes,False
+CUST100118,Myra Sinha,25,Male,736970.0,INR,97,Basic,2025-04-11,2026-02-18,Rarely,967.72,48,13,35,Grocery,Hyderabad,India,hotmail.com,Android,Credit Card,643.0,5,No,False
+CUST100119,Ishaan Rao,42,Female,736970.0,INR,36,Silver,2025-03-01,2025-12-18,Rarely,2873.21,10,0,10,Gaming,Ahmedabad,India,outlook.com,Android,Debit Card,467.0,1,Yes,False
+CUST100120,Meera Singh,29,Female,805102.0,INR,41,Platinum,2024-12-28,2025-06-13,Rarely,945.24,16,11,5,Home Decor,Mumbai,India,outlook.com,iOS,Debit Card,1323.0,4,Yes,True
+CUST100122,Kiara Sinha,38,Male,2270932.0,INR,77,Basic,2024-11-26,2025-06-28,Weekly,1936.75,2,1,1,Gaming,Kolkata,India,hotmail.com,Android,Credit Card,1490.0,3,No,False
+CUST100123,Riya Singh,33,Male,782766.0,INR,40,Silver,2022-09-23,2023-07-27,Rarely,471.7,7,5,2,Beauty,Bengaluru,India,gmail.com,Android,Credit Card,1855.0,3,Yes,True
+CUST100124,Saanvi Singh,28,Female,115251459.5,USD,18,Silver,2021-06-27,2022-11-17,Weekly,2607.51,25,17,8,Fashion,Chennai,India,gmail.com,Android,Credit Card,468.0,1,Yes,False
+CUST100125,Ira Khan,32,Female,157196.0,INR,61,Silver,2022-03-06,2023-01-28,Rarely,2081.03,25,19,6,Home Decor,Hyderabad,India,gmail.com,Desktop,UPI,2004.0,1,No,False
+CUST100126,Kiara Mehta,30,Male,48128982.5,USD,41,Platinum,2025-08-02,2025-11-11,Weekly,2237.7,18,11,7,Books,Bengaluru,India,yahoo.com,Android,Credit Card,0.0,4,No,False
+CUST100127,Amit Sinha,31,Female,750074.0,INR,74,Basic,2023-04-01,2024-11-25,Rarely,4027.05,21,2,19,Sports,Mumbai,India,yahoo.com,iOS,Credit Card,657.0,4,Yes,False
+CUST100129,Sai Mishra,34,Female,518410.0,INR,40,Basic,2023-06-14,2023-10-31,Rarely,3134.91,36,4,32,Kids,Delhi,India,gmail.com,Android,UPI,377.0,4,No,False
+CUST100131,Ananya Patel,65,Male,1412016.0,INR,76,Platinum,2022-07-18,2024-12-12,Monthly,784.61,1,0,1,Beauty,Lucknow,India,company.com,Desktop,Cash,1296.0,3,No,False
+CUST100132,Rahul Mehta,34,Female,1125441.0,INR,65,Gold,2023-08-30,2024-05-24,Monthly,1064.45,6,4,2,Sports,Hyderabad,India,gmail.com,Desktop,Debit Card,1769.0,3,Yes,True
+CUST100134,Sara Joshi,34,Female,736970.0,INR,76,Gold,2023-07-03,2023-07-22,Monthly,2034.56,9,6,3,Sports,Ahmedabad,India,gmail.com,Desktop,Wallet,1200.0,5,No,False
+CUST100135,Vivaan Khan,19,Male,251334.0,INR,87,Silver,2021-08-07,2023-05-14,Daily,1177.6,5,1,4,Kids,Bengaluru,India,hotmail.com,iOS,UPI,1447.0,1,No,False
+CUST100136,Ananya Nair,18,Male,466720.0,INR,51,Platinum,2024-06-05,2024-11-26,Monthly,2843.23,3,0,3,Electronics,Hyderabad,India,gmail.com,Android,Debit Card,872.0,4,No,False
+CUST100137,Kiara Patel,47,Female,793857.0,INR,83,Silver,2024-08-27,2026-04-26,Weekly,1144.46,37,3,34,Food Court,Hyderabad,India,gmail.com,Android,Credit Card,1227.0,4,Yes,False
+CUST100138,Ayaan Rao,40,Female,500365.0,INR,32,Platinum,2022-03-06,2023-05-25,Rarely,730.01,10,1,9,Books,Delhi,India,hotmail.com,iOS,Cash,0.0,1,No,False
+CUST100139,Sai Kapoor,37,Female,707596.0,INR,49,Platinum,2025-01-14,2025-07-31,Monthly,1521.84,4,2,2,Food Court,Kolkata,India,gmail.com,Desktop,Cash,1229.0,2,Yes,False
+CUST100140,Ishaan Iyer,26,Female,1607754.0,INR,53,Silver,2023-05-22,2024-11-15,Weekly,3299.26,71,2,69,Sports,Delhi,India,outlook.com,Desktop,Debit Card,1170.0,4,Yes,False
+CUST100141,Rahul Kapoor,33,Male,790169.0,INR,53,Basic,2024-03-24,2026-06-15,Monthly,3474.34,13,3,10,Kids,Ahmedabad,India,hotmail.com,Android,UPI,660.0,1,No,False
+CUST100142,Rahul Sharma,42,Other,519295.0,INR,28,Silver,2024-10-10,2024-12-16,Rarely,1632.32,2,1,1,Beauty,Kolkata,India,gmail.com,iOS,Cash,1268.0,2,No,False
+CUST100143,Neha Singh,27,Male,427475.0,INR,37,Silver,2025-06-05,2025-11-08,Weekly,1588.73,17,11,6,Sports,Jaipur,India,hotmail.com,Android,UPI,917.0,2,Yes,False
+CUST100144,Priya Kapoor,29,Male,500883.0,INR,39,Platinum,2024-08-18,2025-06-16,Monthly,2030.57,9,4,5,Books,Mumbai,India,hotmail.com,Android,Cash,2586.0,1,Yes,False
+CUST100145,Aadhya Das,47,Male,555731.0,INR,58,Platinum,2021-04-25,2023-03-08,Monthly,2362.12,12,2,10,Gaming,Delhi,India,gmail.com,Android,Credit Card,1395.0,4,No,True
+CUST100146,Aarav Kumar,30,Female,736970.0,USD,74,Gold,2025-08-13,2025-08-13,Monthly,1057.63,14,9,5,Sports,Lucknow,India,company.com,iOS,UPI,855.0,3,No,False
+CUST100147,Saanvi Das,35,Male,13408012.5,USD,61,Platinum,2024-08-01,2024-10-18,Weekly,792.99,4,0,4,Fashion,Pune,India,hotmail.com,Android,Credit Card,1905.0,3,Yes,False
+CUST100148,Ishaan Singh,42,Female,2024175.0,INR,62,Platinum,2022-10-01,2024-09-07,Weekly,5126.73,44,5,39,Fashion,Jaipur,India,gmail.com,Android,Credit Card,560.0,4,Yes,False
+CUST100149,Diya Gupta,23,Female,736970.0,INR,41,Platinum,2021-11-25,2024-04-18,Weekly,4363.19,19,0,19,Beauty,Jaipur,India,rediffmail.com,iOS,UPI,2244.0,5,No,True
+CUST100150,Saanvi Patel,34,Female,53940582.5,USD,53,Platinum,2023-06-29,2024-02-15,Monthly,2171.74,13,4,9,Electronics,Mumbai,India,gmail.com,Android,Credit Card,934.0,4,Yes,False
+CUST100151,Priya Chopra,30,Female,736970.0,INR,89,Basic,2021-09-08,2022-05-22,Monthly,783.38,19,7,12,Sports,Ahmedabad,India,gmail.com,Android,UPI,474.0,2,No,True
+CUST100152,Priya Verma,45,Female,472036.0,INR,68,Gold,2025-01-05,2026-02-07,Rarely,1777.34,19,14,5,Electronics,Kolkata,India,gmail.com,Desktop,Credit Card,1290.0,4,Yes,False
+CUST100153,Neha Nair,30,Female,474216.0,INR,58,Gold,2024-01-08,2024-12-06,Monthly,990.36,1,0,1,Beauty,Chennai,India,yahoo.com,Android,Cash,734.0,3,No,True
+CUST100154,Sai Sharma,41,Other,576835.0,INR,90,Platinum,2023-05-25,2023-12-25,Daily,2159.87,0,0,0,Sports,Lucknow,India,rediffmail.com,Android,Credit Card,1884.0,3,No,False
+CUST100155,Krishna Singh,43,Male,465543.0,INR,82,Silver,2022-08-11,2024-06-02,Weekly,3303.6,31,1,30,Grocery,Delhi,India,gmail.com,iOS,UPI,1879.0,5,No,False
+CUST100156,Vihaan Gupta,33,Male,2032880.0,INR,21,Basic,2025-05-07,2026-01-30,Rarely,2123.32,32,7,25,Grocery,Kolkata,India,yahoo.com,Desktop,Credit Card,1950.0,2,No,False
+CUST100157,Ishaan Patel,52,Male,412540.0,INR,19,Basic,2021-04-22,2023-03-30,Monthly,6609.53,0,0,0,Electronics,Pune,India,rediffmail.com,Android,Wallet,1603.0,2,Yes,True
+CUST100158,Sai Iyer,25,Female,620488.0,INR,45,Platinum,2024-05-18,2026-06-03,Rarely,1822.78,30,24,6,Books,Ahmedabad,India,outlook.com,iOS,Debit Card,0.0,5,No,False
+CUST100159,Myra Singh,37,Female,2343829.0,INR,76,Basic,2023-01-24,2023-07-17,Monthly,2095.13,3,2,1,Food Court,Pune,India,outlook.com,Android,Wallet,1672.0,2,Yes,False
+CUST100160,Arjun Kapoor,54,Female,1195919.0,INR,51,Silver,2024-12-21,2026-02-27,Weekly,4163.87,3,0,3,Books,Ahmedabad,India,gmail.com,Android,Credit Card,1224.0,3,Yes,True
+CUST100161,Vihaan Sinha,46,Male,1209758.0,INR,51,Silver,2022-06-25,2023-12-06,Monthly,3310.79,10,9,1,Electronics,Hyderabad,India,hotmail.com,iOS,Debit Card,1222.0,1,No,False
+CUST100162,Rahul Mehta,36,Female,775979.0,INR,57,Gold,2021-07-13,2022-06-14,Monthly,938.98,25,4,21,Sports,Pune,India,outlook.com,Android,UPI,1199.0,1,No,False
+CUST100163,Krishna Mishra,33,Female,60365824.0,USD,27,Gold,2024-09-01,2025-02-05,Rarely,588.31,5,3,2,Beauty,Hyderabad,India,gmail.com,Android,Cash,1584.0,1,Yes,True
+CUST100164,Krishna Patel,34,Female,1535443.0,INR,76,Gold,2022-09-08,2025-01-16,Rarely,1071.89,1,0,1,Electronics,Mumbai,India,rediffmail.com,iOS,UPI,1567.0,4,Yes,False
+CUST100165,Aditya Singh,27,Male,452500.0,INR,42,Gold,2023-03-20,2023-07-17,Monthly,1650.46,15,13,2,Food Court,Ahmedabad,India,outlook.com,Android,Credit Card,576.0,5,Yes,False
+CUST100166,Vivaan Sinha,46,Male,428291.0,INR,50,Basic,2023-07-10,2025-02-28,Rarely,5568.13,4,0,4,Sports,Jaipur,India,gmail.com,Android,Credit Card,1222.0,4,No,False
+CUST100169,Aarav Rao,28,Female,589123.0,INR,39,Silver,2022-06-29,2023-07-15,Rarely,1292.68,5,4,1,Books,Mumbai,India,gmail.com,Desktop,UPI,2408.0,4,No,False
+CUST100170,Vivaan Kapoor,22,Female,1175828.0,INR,48,Platinum,2022-12-06,2022-12-14,Monthly,2726.83,20,11,9,Food Court,Lucknow,India,gmail.com,Android,UPI,1832.0,4,Yes,True
+CUST100171,Ayaan Verma,44,Female,167310.0,INR,37,Basic,2023-05-10,2024-11-02,Daily,3259.28,8,4,4,Kids,Hyderabad,India,gmail.com,Android,UPI,0.0,5,No,True
+CUST100172,Diya Kumar,24,Other,52123038.0,USD,26,Gold,2023-06-21,2025-05-26,Monthly,2425.79,13,5,8,Grocery,Kolkata,India,gmail.com,iOS,UPI,1057.0,4,Yes,False
+CUST100173,Ayaan Joshi,43,Male,1037896.0,INR,77,Basic,2023-07-16,2024-06-25,Monthly,1737.94,12,1,11,Electronics,Mumbai,India,gmail.com,Android,Credit Card,1584.0,2,Yes,True
+CUST100174,Myra Mehta,26,Female,764959.0,INR,18,Silver,2022-02-26,2022-11-04,Weekly,4089.07,12,0,12,Home Decor,Lucknow,India,rediffmail.com,Desktop,UPI,1052.0,2,No,False
+CUST100175,Rahul Singh,31,Other,89458810.5,USD,36,Basic,2023-10-07,2025-03-10,Daily,3940.99,41,2,39,Food Court,Hyderabad,India,outlook.com,Android,Credit Card,999.0,1,No,False
+CUST100176,Kiara Chopra,62,Female,534592.0,INR,55,Gold,2022-12-21,2025-05-01,Monthly,3641.8,48,23,25,Sports,Jaipur,India,gmail.com,Desktop,Cash,1196.0,5,Yes,False
+CUST100178,Krishna Kapoor,47,Female,832039.0,INR,64,Platinum,2025-02-22,2025-12-08,Weekly,1063.86,37,20,17,Grocery,Hyderabad,India,gmail.com,iOS,Credit Card,611.0,1,No,False
+CUST100179,Ayaan Patel,39,Other,736970.0,INR,44,Basic,2022-11-06,2023-09-20,Weekly,3510.77,0,0,0,Gaming,Hyderabad,India,gmail.com,Desktop,UPI,1243.0,4,No,False
+CUST100180,Aarav Patel,44,Female,605084.0,INR,95,Basic,2024-09-13,2026-06-13,Weekly,763.55,10,5,5,Kids,Mumbai,India,company.com,Android,Debit Card,1607.0,3,No,False
+CUST100181,Reyansh Sinha,44,Female,56239588.0,USD,75,Basic,2022-12-04,2023-09-28,Weekly,933.86,15,8,7,Gaming,Hyderabad,India,rediffmail.com,Desktop,Debit Card,2119.0,2,No,False
+CUST100182,Krishna Gupta,34,Female,619557.0,INR,46,Basic,2023-03-31,2023-10-05,Monthly,3391.49,4,1,3,Fashion,Hyderabad,India,yahoo.com,Desktop,Cash,517.0,4,Yes,False
+CUST100183,Myra Chopra,20,Other,407125.0,INR,10,Basic,2022-08-26,2024-11-11,Monthly,3894.87,16,15,1,Kids,Chennai,India,company.com,iOS,Credit Card,1448.0,1,Yes,False
+CUST100184,Sai Rao,34,Male,612724.0,INR,35,Gold,2021-06-22,2022-04-20,Rarely,1940.45,3,2,1,Kids,Hyderabad,India,yahoo.com,iOS,Credit Card,1487.0,4,Yes,False
+CUST100185,Aditya Khan,37,Female,19782319.0,USD,73,Platinum,2024-04-02,2026-05-17,Daily,1461.58,5,3,2,Kids,Chennai,India,outlook.com,iOS,UPI,495.0,5,No,False
+CUST100186,Sai Kumar,26,Female,501086.0,INR,23,Silver,2021-10-12,2022-03-18,Monthly,1969.2,12,4,8,Grocery,Chennai,India,rediffmail.com,iOS,Cash,1844.0,4,Yes,False
+CUST100187,Aditya Joshi,23,Female,327568.0,INR,60,Silver,2021-05-21,2022-06-23,Weekly,1969.31,8,7,1,Sports,Bengaluru,India,gmail.com,iOS,Wallet,1050.0,5,Yes,False
+CUST100188,Sara Kapoor,34,Female,1251933.0,INR,24,Gold,2022-01-11,2023-12-27,Weekly,979.48,4,0,4,Books,Chennai,India,gmail.com,Android,Credit Card,427.0,1,No,False
+CUST100189,Aditya Sharma,23,Male,615359.0,INR,29,Basic,2023-09-20,2025-01-04,Rarely,742.81,3,0,3,Grocery,Bengaluru,India,gmail.com,Android,Credit Card,882.0,1,Yes,True
+CUST100190,Rahul Nair,29,Other,569885.0,INR,44,Platinum,2021-01-30,2022-01-10,Rarely,725.21,5,4,1,Food Court,Pune,India,outlook.com,Android,Credit Card,1503.0,2,No,True
+CUST100191,Meera Rao,30,Female,1519678.0,INR,57,Basic,2021-07-28,2023-07-27,Rarely,3581.12,1,0,1,Grocery,Delhi,India,yahoo.com,iOS,Cash,2153.0,3,Yes,False
+CUST100192,Kiara Joshi,31,Female,736970.0,INR,44,Basic,2022-07-24,2023-06-14,Daily,2847.24,24,22,2,Sports,Lucknow,India,outlook.com,Android,Debit Card,826.0,1,No,False
+CUST100193,Ira Singh,34,Female,884734.0,INR,63,Silver,2024-07-25,2025-02-16,Rarely,989.75,5,0,5,Home Decor,Delhi,India,gmail.com,Desktop,Debit Card,1832.0,4,Yes,False
+CUST100194,Amit Iyer,35,Male,987395.0,INR,100,Gold,2021-09-12,2022-10-11,Monthly,1593.11,7,3,4,Electronics,Hyderabad,India,outlook.com,iOS,Cash,567.0,3,Yes,False
+CUST100195,Aarav Gupta,52,Male,3348145.0,INR,57,Gold,2023-05-25,2024-02-07,Monthly,3214.73,15,13,2,Kids,Mumbai,India,rediffmail.com,Desktop,Debit Card,1402.0,3,Yes,False
+CUST100196,Vivaan Kumar,25,Female,633530.0,INR,41,Silver,2024-07-02,2024-10-21,Monthly,1314.3,4,2,2,Home Decor,Delhi,India,rediffmail.com,Desktop,UPI,1200.0,1,Yes,False
+CUST100197,Rahul Verma,44,Male,835109.0,INR,7,Gold,2021-10-12,2021-11-07,Monthly,835.39,6,2,4,Sports,Chennai,India,yahoo.com,Desktop,Credit Card,2126.0,2,No,False
+CUST100198,Ananya Joshi,34,Male,510472.0,INR,26,Silver,2024-10-10,2026-04-24,Rarely,1794.74,34,17,17,Fashion,Ahmedabad,India,company.com,iOS,UPI,1093.0,1,Yes,False
+CUST100199,Sara Khan,43,Male,1200484.0,INR,62,Platinum,2021-06-29,2021-10-21,Monthly,1203.89,60,26,34,Food Court,Lucknow,India,gmail.com,Android,UPI,1153.0,5,No,False
+CUST100200,Riya Joshi,24,Male,649811.0,INR,74,Platinum,2025-08-25,2025-12-13,Daily,2995.49,29,20,9,Books,Delhi,India,rediffmail.com,Desktop,Credit Card,1963.0,2,Yes,False
+CUST100202,Sai Joshi,45,Female,628023.0,INR,42,Platinum,2024-08-30,2025-11-28,Weekly,2350.48,20,16,4,Books,Kolkata,India,outlook.com,Desktop,UPI,683.0,5,No,False
+CUST100203,Ishaan Reddy,20,Female,859397.0,INR,56,Silver,2022-01-04,2022-01-09,Weekly,645.91,1,1,0,Gaming,Jaipur,India,gmail.com,Desktop,Credit Card,691.0,3,Yes,False
+CUST100204,Rahul Nair,61,Male,478883.0,INR,82,Silver,2023-05-15,2023-07-30,Rarely,625.32,16,3,13,Electronics,Hyderabad,India,gmail.com,Android,Credit Card,0.0,2,No,False
+CUST100205,Kiara Joshi,25,Other,883876.0,INR,65,Silver,2021-09-10,2022-03-08,Monthly,1850.87,5,0,5,Electronics,Jaipur,India,gmail.com,Android,UPI,750.0,2,No,False
+CUST100206,Priya Chopra,50,Male,563801.0,INR,39,Basic,2022-09-18,2023-11-08,Monthly,308.38,6,5,1,Kids,Lucknow,India,hotmail.com,Android,Credit Card,1780.0,5,Yes,False
+CUST100207,Myra Nair,50,Female,297017.0,INR,53,Silver,2021-10-01,2023-03-11,Daily,929.37,47,35,12,Sports,Delhi,India,gmail.com,Android,UPI,1013.0,1,Yes,True
+CUST100208,Arjun Verma,46,Male,1021831.0,INR,75,Gold,2021-01-15,2021-06-23,Weekly,479.87,1,0,1,Fashion,Chennai,India,outlook.com,Desktop,Credit Card,1649.0,4,No,False
+CUST100209,Riya Patel,20,Male,321499.0,INR,8,Basic,2023-05-10,2026-03-05,Daily,1857.2,21,2,19,Food Court,Mumbai,India,hotmail.com,Desktop,Cash,2251.0,3,Yes,False
+CUST100210,Rahul Reddy,31,Male,736970.0,INR,84,Gold,2022-01-29,2022-06-27,Daily,1511.15,18,4,14,Beauty,Bengaluru,India,outlook.com,Android,UPI,1159.0,4,No,False
+CUST100211,Ananya Das,36,Female,540200.0,INR,79,Basic,2023-01-11,2025-02-09,Monthly,777.51,0,0,0,Electronics,Chennai,India,gmail.com,Android,UPI,783.0,4,No,False
+CUST100212,Aadhya Chopra,34,Other,213584.0,INR,84,Silver,2023-12-27,2026-06-05,Daily,4011.64,20,2,18,Home Decor,Bengaluru,India,gmail.com,Android,Cash,1320.0,2,Yes,False
+CUST100213,Priya Kumar,41,Other,1399422.0,INR,47,Platinum,2023-01-26,2023-12-24,Weekly,3029.7,30,16,14,Gaming,Pune,India,gmail.com,iOS,Cash,1135.0,2,Yes,False
+CUST100214,Amit Chopra,34,Female,425837.0,INR,22,Silver,2024-03-12,2025-07-27,Rarely,2946.59,1,0,1,Grocery,Kolkata,India,gmail.com,Desktop,Cash,2229.0,3,Yes,True
+CUST100215,Arjun Verma,43,Male,910256.0,INR,79,Platinum,2023-09-08,2024-08-20,Weekly,3234.31,5,1,4,Fashion,Pune,India,hotmail.com,iOS,Wallet,2101.0,4,Yes,False
+CUST100216,Arjun Joshi,52,Female,120000.0,INR,67,Basic,2024-09-28,2025-08-02,Monthly,2361.9,10,3,7,Beauty,Bengaluru,India,gmail.com,Desktop,Debit Card,1300.0,2,Yes,False
+CUST100217,Riya Singh,18,Other,438677.0,INR,70,Gold,2024-01-09,2025-07-08,Daily,1289.53,29,18,11,Electronics,Ahmedabad,India,gmail.com,Desktop,Cash,917.0,2,No,False
+CUST100218,Riya Mishra,39,Male,16558718.0,USD,51,Silver,2024-05-01,2024-10-09,Rarely,2256.61,8,0,8,Grocery,Mumbai,India,outlook.com,Android,Credit Card,202.0,4,No,False
+CUST100219,Vivaan Verma,34,Male,1437866.0,INR,41,Silver,2021-09-14,2023-10-14,Monthly,6303.17,8,1,7,Gaming,Ahmedabad,India,gmail.com,Desktop,Credit Card,264.0,4,Yes,False
+CUST100220,Ananya Mishra,34,Female,922701.0,INR,51,Gold,2021-04-04,2021-05-23,Daily,2661.08,4,4,0,Grocery,Hyderabad,India,gmail.com,iOS,Debit Card,1072.0,4,Yes,False
+CUST100221,Ira Patel,41,Male,23377829.0,USD,50,Gold,2022-08-19,2023-08-22,Monthly,1665.3,22,21,1,Fashion,Bengaluru,India,yahoo.com,iOS,Debit Card,670.0,5,Yes,False
+CUST100222,Arjun Kumar,24,Male,316062.0,INR,80,Basic,2024-07-03,2025-05-20,Weekly,847.02,9,2,7,Beauty,Ahmedabad,India,gmail.com,Android,Debit Card,1066.0,2,No,False
+CUST100223,Krishna Mehta,39,Male,547544.0,INR,63,Platinum,2021-08-23,2022-06-04,Rarely,431.13,2,0,2,Home Decor,Ahmedabad,India,hotmail.com,iOS,Debit Card,1646.0,3,Yes,True
+CUST100224,Ananya Kumar,32,Female,355332.0,INR,41,Platinum,2024-11-20,2026-06-27,Rarely,5214.32,11,7,4,Sports,Kolkata,India,yahoo.com,Android,Cash,1200.0,3,Yes,False
+CUST100225,Sara Joshi,36,Other,463145.0,INR,25,Platinum,2021-09-13,2023-08-30,Monthly,5016.69,20,19,1,Fashion,Jaipur,India,gmail.com,Desktop,Credit Card,592.0,2,Yes,False
+CUST100226,Sara Iyer,36,Male,27512081.0,USD,72,Silver,2023-05-10,2023-12-25,Daily,1850.87,10,2,8,Kids,Jaipur,India,rediffmail.com,Android,Credit Card,1309.0,3,Yes,False
+CUST100227,Kiara Kapoor,43,Male,707188.0,INR,20,Basic,2021-07-23,2023-07-20,Rarely,1872.55,68,11,57,Electronics,Kolkata,India,gmail.com,Desktop,Cash,1200.0,2,Yes,False
+CUST100229,Reyansh Patel,19,Female,375173.0,INR,23,Silver,2021-09-07,2022-03-23,Weekly,328.3,94,56,38,Beauty,Lucknow,India,outlook.com,Android,Wallet,2063.0,2,Yes,True
+CUST100230,Myra Sharma,42,Female,274118.0,INR,9,Gold,2023-05-30,2023-12-20,Weekly,2692.55,9,6,3,Food Court,Lucknow,India,gmail.com,Desktop,Debit Card,1302.0,3,No,True
+CUST100231,Sai Khan,27,Female,348132.0,INR,22,Basic,2021-07-30,2023-02-24,Daily,1850.87,4,0,4,Gaming,Chennai,India,outlook.com,Desktop,UPI,0.0,4,No,True
+CUST100232,Amit Verma,34,Female,1823225.0,INR,55,Silver,2023-07-20,2024-12-06,Monthly,1145.26,13,4,9,Home Decor,Jaipur,India,gmail.com,iOS,Wallet,542.0,4,No,False
+CUST100233,Aditya Sinha,33,Female,344889.0,INR,68,Basic,2023-12-05,2025-05-28,Weekly,3060.95,36,26,10,Sports,Kolkata,India,gmail.com,Android,UPI,455.0,1,No,False
+CUST100234,Priya Chopra,50,Female,1702254.0,INR,88,Gold,2022-07-24,2023-09-30,Monthly,2805.17,8,3,5,Beauty,Ahmedabad,India,gmail.com,Desktop,Credit Card,2256.0,4,Yes,False
+CUST100235,Riya Nair,46,Male,736970.0,INR,73,Gold,2021-04-13,2023-02-03,Monthly,1849.06,10,5,5,Home Decor,Chennai,India,gmail.com,Android,Wallet,993.0,5,No,False
+CUST100236,Sai Singh,23,Other,538885.0,INR,64,Silver,2025-04-07,2026-06-17,Weekly,3252.16,0,0,0,Sports,Mumbai,India,company.com,iOS,UPI,988.0,3,No,False
+CUST100237,Saanvi Gupta,28,Female,1661764.0,INR,10,Gold,2022-03-28,2024-02-01,Monthly,834.88,19,14,5,Beauty,Pune,India,gmail.com,Android,UPI,114.0,4,No,True
+CUST100238,Krishna Singh,34,Male,880188.0,INR,57,Silver,2024-02-18,2025-12-29,Monthly,1877.22,47,6,41,Electronics,Ahmedabad,India,outlook.com,Android,Credit Card,1253.0,1,Yes,True
+CUST100239,Sara Kumar,59,Male,25961820.0,USD,65,Gold,2021-12-21,2023-07-21,Daily,6885.77,9,8,1,Books,Delhi,India,company.com,Desktop,Credit Card,764.0,1,Yes,False
+CUST100240,Meera Sinha,34,Male,1369769.0,INR,41,Silver,2022-08-24,2022-10-17,Weekly,8515.16,5,2,3,Kids,Hyderabad,India,outlook.com,Android,Debit Card,834.0,2,No,False
+CUST100241,Arjun Sharma,31,Male,621109.0,INR,73,Basic,2021-08-01,2022-11-29,Daily,1862.03,0,0,0,Kids,Mumbai,India,gmail.com,iOS,Credit Card,1142.0,5,No,False
+CUST100242,Saanvi Patel,49,Male,462850.0,INR,34,Gold,2024-06-23,2025-09-21,Monthly,10342.83,1,0,1,Sports,Pune,India,gmail.com,Desktop,Credit Card,1540.0,5,No,True
+CUST100243,Sai Joshi,25,Female,77312900.5,USD,72,Gold,2024-04-04,2025-03-26,Monthly,3342.38,26,13,13,Grocery,Ahmedabad,India,gmail.com,Android,Debit Card,2373.0,2,No,False
+CUST100244,Sai Chopra,31,Female,250274.0,INR,63,Basic,2025-06-06,2025-09-12,Monthly,1503.57,20,4,16,Books,Kolkata,India,outlook.com,iOS,Debit Card,1911.0,5,No,False
+CUST100245,Vivaan Khan,28,Male,661871.0,INR,50,Gold,2024-12-11,2025-12-12,Weekly,3719.34,0,0,0,Food Court,Bengaluru,India,company.com,iOS,UPI,0.0,1,Yes,True
+CUST100247,Reyansh Sinha,35,Other,234486.0,INR,84,Gold,2021-04-27,2021-07-14,Weekly,3414.57,27,15,12,Sports,Delhi,India,gmail.com,Android,Credit Card,870.0,4,Yes,False
+CUST100249,Arjun Sharma,18,Female,933278.0,INR,48,Silver,2025-08-26,2026-04-05,Monthly,2974.3,5,3,2,Kids,Kolkata,India,rediffmail.com,Android,Wallet,1260.0,5,No,False
+CUST100250,Riya Singh,25,Male,334657.0,INR,76,Platinum,2023-09-11,2025-06-25,Monthly,507.65,9,0,9,Food Court,Lucknow,India,outlook.com,Android,Debit Card,118.0,3,Yes,True
+CUST100251,Rahul Verma,50,Male,478574.0,INR,67,Basic,2021-06-08,2022-11-09,Rarely,1850.87,34,12,22,Electronics,Delhi,India,hotmail.com,Desktop,Credit Card,1559.0,5,No,False
+CUST100252,Aadhya Khan,41,Female,494244.0,INR,76,Basic,2024-01-09,2026-01-28,Weekly,3380.6,18,17,1,Beauty,Lucknow,India,gmail.com,Android,Credit Card,2092.0,3,No,False
+CUST100253,Arjun Chopra,36,Female,736970.0,USD,93,Platinum,2021-10-31,2023-06-12,Monthly,710.19,27,9,18,Kids,Lucknow,India,yahoo.com,Desktop,UPI,2039.0,2,Yes,False
+CUST100254,Saanvi Mishra,18,Female,87368054.0,USD,56,Gold,2023-07-18,2024-08-09,Monthly,2598.47,22,16,6,Grocery,Hyderabad,India,gmail.com,iOS,UPI,192.0,5,No,False
+CUST100255,Saanvi Singh,34,Female,474877.0,INR,79,Gold,2023-11-08,2025-12-19,Monthly,1005.44,4,3,1,Fashion,Bengaluru,India,gmail.com,iOS,Debit Card,839.0,1,Yes,False
+CUST100256,Krishna Sinha,40,Female,874274.0,INR,65,Platinum,2021-03-20,2022-06-06,Weekly,2654.17,9,7,2,Food Court,Bengaluru,India,rediffmail.com,iOS,Debit Card,1689.0,5,No,False
+CUST100257,Priya Kumar,50,Female,72529519.5,USD,63,Platinum,2023-10-01,2025-12-24,Weekly,7699.24,7,3,4,Sports,Mumbai,India,gmail.com,iOS,Credit Card,762.0,4,No,False
+CUST100258,Aditya Khan,48,Male,467472.0,INR,34,Silver,2022-09-24,2023-12-26,Monthly,578.26,43,11,32,Food Court,Kolkata,India,outlook.com,Android,Credit Card,1433.0,5,Yes,False
+CUST100259,Aarav Kapoor,34,Male,237635.0,INR,44,Gold,2021-03-28,2021-09-04,Rarely,1816.72,0,0,0,Food Court,Mumbai,India,gmail.com,Android,Wallet,1367.0,3,Yes,False
+CUST100260,Riya Iyer,30,Female,44253246.5,USD,40,Basic,2023-07-16,2024-03-01,Rarely,5882.66,6,4,2,Gaming,Pune,India,gmail.com,Desktop,Wallet,1491.0,1,Yes,False
+CUST100261,Rahul Chopra,27,Male,1353354.0,INR,80,Silver,2023-11-20,2024-08-20,Monthly,819.06,14,4,10,Beauty,Hyderabad,India,gmail.com,Desktop,Debit Card,1418.0,4,No,False
+CUST100262,Kiara Rao,30,Male,478094.0,INR,59,Gold,2023-08-29,2024-08-20,Daily,395.16,24,23,1,Books,Delhi,India,gmail.com,Desktop,Wallet,1764.0,5,No,False
+CUST100263,Aarav Khan,19,Female,326391.0,INR,43,Platinum,2024-08-13,2025-09-09,Weekly,658.56,3,0,3,Sports,Pune,India,yahoo.com,Android,Credit Card,2184.0,2,Yes,False
+CUST100264,Ira Nair,44,Female,278382.0,INR,81,Silver,2024-02-22,2025-05-19,Monthly,9835.83,4,0,4,Food Court,Ahmedabad,India,gmail.com,iOS,UPI,1618.0,3,No,False
+CUST100265,Reyansh Sharma,31,Male,432513.0,INR,51,Gold,2024-08-19,2026-02-28,Rarely,1757.84,20,5,15,Gaming,Hyderabad,India,rediffmail.com,Desktop,UPI,240.0,1,No,True
+CUST100266,Rahul Verma,40,Female,822875.0,INR,52,Basic,2021-08-30,2022-08-14,Rarely,1035.51,11,2,9,Food Court,Mumbai,India,rediffmail.com,iOS,Debit Card,1627.0,1,Yes,False
+CUST100267,Saanvi Nair,35,Female,84256927.5,USD,69,Silver,2025-05-01,2026-03-25,Rarely,1850.87,22,5,17,Electronics,Kolkata,India,gmail.com,Desktop,Credit Card,1466.0,3,Yes,False
+CUST100268,Priya Joshi,50,Female,1085230.0,INR,77,Silver,2021-11-30,2023-03-23,Monthly,961.48,6,4,2,Home Decor,Chennai,India,outlook.com,Android,Debit Card,1233.0,3,No,False
+CUST100269,Aarav Sinha,43,Female,854124.0,INR,100,Basic,2022-12-10,2024-03-23,Rarely,2791.8,57,55,2,Food Court,Jaipur,India,company.com,Android,Credit Card,238.0,2,No,False
+CUST100270,Reyansh Das,40,Male,564864.0,INR,34,Platinum,2024-04-16,2024-05-13,Rarely,1698.66,16,8,8,Home Decor,Mumbai,India,company.com,Android,Wallet,25.0,2,No,False
+CUST100271,Neha Khan,23,Female,377828.0,INR,70,Gold,2023-02-26,2025-01-28,Weekly,1041.14,9,7,2,Kids,Mumbai,India,gmail.com,Desktop,Wallet,268.0,1,No,False
+CUST100272,Sai Patel,21,Female,736970.0,INR,71,Platinum,2022-08-30,2024-10-23,Monthly,1112.72,0,0,0,Home Decor,Ahmedabad,India,hotmail.com,Android,Debit Card,667.0,1,Yes,False
+CUST100273,Amit Gupta,48,Male,2004384.0,INR,62,Silver,2025-03-10,2025-07-19,Daily,1625.52,12,8,4,Home Decor,Chennai,India,hotmail.com,Android,Credit Card,682.0,1,Yes,False
+CUST100274,Krishna Joshi,34,Male,521459.0,INR,51,Basic,2022-11-05,2024-05-12,Monthly,2453.45,7,4,3,Kids,Ahmedabad,India,gmail.com,Desktop,Wallet,1410.0,4,Yes,False
+CUST100276,Saanvi Nair,34,Other,2416002.0,INR,50,Basic,2024-06-21,2025-02-05,Monthly,1310.4,16,6,10,Electronics,Ahmedabad,India,gmail.com,Desktop,Wallet,929.0,3,Yes,False
+CUST100277,Aadhya Sinha,23,Male,887555.0,INR,43,Silver,2021-05-24,2021-05-31,Weekly,552.53,2,1,1,Grocery,Delhi,India,gmail.com,Android,Credit Card,2015.0,5,No,True
+CUST100278,Vivaan Singh,47,Female,1160008.0,INR,51,Silver,2021-07-18,2022-06-20,Monthly,2913.04,19,2,17,Books,Pune,India,outlook.com,iOS,Debit Card,588.0,4,Yes,False
+CUST100279,Sai Sinha,33,Female,405727.0,INR,21,Gold,2021-01-25,2021-10-17,Monthly,2041.18,18,0,18,Food Court,Mumbai,India,yahoo.com,Android,UPI,1696.0,4,No,False
+CUST100280,Krishna Patel,24,Other,1139398.0,INR,64,Gold,2024-01-01,2026-05-16,Daily,1823.73,9,0,9,Home Decor,Hyderabad,India,hotmail.com,Android,Debit Card,2117.0,4,Yes,False
+CUST100281,Saanvi Sinha,27,Female,470032.0,INR,83,Silver,2021-01-20,2022-09-07,Monthly,2156.41,3,1,2,Books,Hyderabad,India,gmail.com,Android,Credit Card,1225.0,3,Yes,False
+CUST100282,Sai Nair,19,Female,661718.0,INR,57,Platinum,2022-01-10,2022-07-27,Weekly,2643.95,1,0,1,Electronics,Ahmedabad,India,rediffmail.com,iOS,Cash,230.0,2,Yes,False
+CUST100283,Saanvi Rao,34,Female,2274693.0,INR,68,Gold,2024-08-15,2025-01-05,Monthly,683.87,7,3,4,Sports,Pune,India,rediffmail.com,Android,Cash,818.0,4,No,False
+CUST100284,Pooja Rao,46,Female,471432.0,INR,49,Platinum,2024-02-25,2024-05-25,Weekly,2361.01,39,2,37,Books,Kolkata,India,gmail.com,iOS,UPI,1917.0,1,No,False
+CUST100285,Pooja Mishra,23,Female,21972774.5,USD,70,Basic,2024-01-09,2025-05-26,Rarely,3673.41,13,0,13,Electronics,Kolkata,India,outlook.com,Desktop,Debit Card,546.0,1,No,False
+CUST100286,Aarav Kapoor,28,Female,1200898.0,INR,39,Silver,2024-10-13,2025-09-12,Rarely,1207.47,0,0,0,Fashion,Kolkata,India,hotmail.com,Android,Wallet,746.0,2,Yes,False
+CUST100287,Reyansh Nair,41,Male,554884.0,INR,49,Silver,2021-04-11,2022-07-12,Monthly,3201.47,11,8,3,Fashion,Delhi,India,rediffmail.com,Desktop,Credit Card,1747.0,2,No,True
+CUST100288,Diya Kumar,42,Male,432125.0,INR,64,Basic,2023-08-21,2025-10-09,Rarely,1850.87,19,7,12,Books,Chennai,India,gmail.com,Android,UPI,1199.0,2,Yes,True
+CUST100289,Amit Nair,33,Female,736970.0,INR,42,Platinum,2023-05-01,2025-09-23,Weekly,695.34,22,3,19,Fashion,Hyderabad,India,yahoo.com,Android,Cash,604.0,5,No,False
+CUST100290,Reyansh Joshi,45,Female,736970.0,INR,82,Basic,2021-03-12,2023-04-16,Daily,8583.36,2,0,2,Fashion,Pune,India,gmail.com,Desktop,Debit Card,1200.0,3,No,False
+CUST100291,Amit Verma,35,Female,910468.0,INR,30,Platinum,2024-12-30,2025-10-28,Rarely,2916.97,10,0,10,Grocery,Ahmedabad,India,hotmail.com,Android,Debit Card,1622.0,5,Yes,True
+CUST100292,Pooja Mishra,53,Male,133814428.0,USD,86,Platinum,2023-05-10,2024-01-29,Weekly,3409.83,15,13,2,Food Court,Mumbai,India,rediffmail.com,Desktop,Cash,764.0,5,No,False
+CUST100293,Rahul Rao,42,Female,360253.0,INR,50,Basic,2025-04-30,2026-03-17,Monthly,1903.23,24,0,24,Fashion,Delhi,India,company.com,Desktop,Credit Card,2324.0,3,Yes,False
+CUST100294,Rahul Kumar,34,Female,2173687.0,INR,42,Basic,2023-10-11,2024-05-24,Rarely,3027.37,19,4,15,Gaming,Pune,India,gmail.com,Desktop,Debit Card,752.0,4,No,False
+CUST100295,Pooja Verma,44,Male,2005453.0,INR,60,Basic,2022-06-04,2023-06-06,Weekly,7549.03,42,9,33,Gaming,Jaipur,India,yahoo.com,iOS,Credit Card,1481.0,2,No,False
+CUST100296,Ira Verma,52,Female,73514068.0,USD,35,Gold,2021-08-17,2022-02-27,Monthly,4307.67,10,3,7,Home Decor,Mumbai,India,company.com,Android,Cash,1253.0,4,Yes,False
+CUST100297,Ira Verma,41,Female,822742.0,INR,57,Platinum,2024-02-03,2025-09-06,Rarely,3782.66,10,8,2,Food Court,Pune,India,company.com,Android,UPI,1367.0,3,No,False
+CUST100298,Krishna Sharma,34,Female,736970.0,USD,1,Platinum,2024-04-25,2025-07-15,Rarely,1643.42,10,6,4,Beauty,Delhi,India,gmail.com,iOS,UPI,571.0,2,Yes,False
+CUST100299,Myra Joshi,39,Female,61028897.5,USD,50,Basic,2021-05-26,2023-02-13,Rarely,2965.39,0,0,0,Fashion,Jaipur,India,rediffmail.com,iOS,Debit Card,751.0,1,No,False
+CUST100300,Ira Nair,23,Male,786065.0,INR,50,Platinum,2021-01-04,2022-06-29,Monthly,2334.24,15,15,0,Sports,Delhi,India,gmail.com,Android,Credit Card,1180.0,2,No,False
+CUST100301,Vihaan Chopra,37,Female,480416.0,INR,37,Gold,2024-06-09,2025-05-20,Rarely,1127.99,14,11,3,Kids,Bengaluru,India,gmail.com,Desktop,Debit Card,1449.0,4,No,False
+CUST100302,Reyansh Verma,44,Male,562237.0,INR,35,Platinum,2023-12-17,2026-04-16,Monthly,5726.73,12,4,8,Electronics,Kolkata,India,gmail.com,Android,Credit Card,1231.0,5,Yes,False
+CUST100303,Rahul Mehta,32,Female,456884.0,INR,46,Platinum,2023-03-10,2025-07-03,Weekly,1381.5,0,0,0,Food Court,Delhi,India,gmail.com,Desktop,UPI,766.0,4,Yes,False
+CUST100304,Ayaan Reddy,18,Female,268718.0,INR,51,Gold,2024-03-13,2024-12-05,Daily,1921.32,22,15,7,Food Court,Delhi,India,outlook.com,Android,UPI,0.0,1,No,False
+CUST100305,Saanvi Kapoor,36,Male,736970.0,INR,19,Platinum,2021-05-11,2021-12-27,Weekly,958.42,42,2,40,Grocery,Delhi,India,hotmail.com,Android,Credit Card,656.0,2,No,False
+CUST100306,Myra Mehta,31,Male,866924.0,INR,35,Silver,2023-07-10,2025-08-14,Rarely,868.34,2,0,2,Grocery,Kolkata,India,gmail.com,Android,Credit Card,595.0,3,Yes,False
+CUST100307,Myra Singh,44,Female,485770.0,INR,46,Basic,2023-12-22,2024-07-19,Monthly,2300.75,8,2,6,Gaming,Delhi,India,hotmail.com,Desktop,Credit Card,1947.0,5,Yes,False
+CUST100308,Ananya Patel,19,Male,209307.0,INR,62,Basic,2025-06-29,2025-10-08,Weekly,2760.58,3,2,1,Home Decor,Jaipur,India,gmail.com,Android,Debit Card,2010.0,1,Yes,True
+CUST100309,Meera Gupta,45,Female,1015317.0,INR,71,Basic,2024-12-04,2025-09-17,Rarely,2228.79,13,8,5,Books,Pune,India,outlook.com,Desktop,Wallet,1262.0,4,No,False
+CUST100310,Ananya Kapoor,35,Female,736970.0,INR,80,Basic,2022-06-02,2022-12-15,Monthly,1850.87,29,0,29,Food Court,Bengaluru,India,gmail.com,iOS,Credit Card,1640.0,3,No,False
+CUST100311,Priya Kumar,25,Female,715987.0,INR,66,Platinum,2021-12-29,2023-01-15,Monthly,2810.0,43,40,3,Fashion,Kolkata,India,yahoo.com,Android,Credit Card,1976.0,5,No,False
+CUST100313,Neha Verma,32,Male,23968424.5,USD,67,Gold,2024-04-19,2026-06-17,Monthly,2540.82,2,0,2,Beauty,Pune,India,outlook.com,Desktop,Credit Card,254.0,4,Yes,True
+CUST100314,Vihaan Patel,71,Female,1008984.0,INR,67,Basic,2022-02-10,2022-03-04,Monthly,1714.09,10,8,2,Kids,Mumbai,India,company.com,Android,Wallet,1700.0,2,Yes,False
+CUST100315,Rahul Iyer,29,Female,307757.0,INR,33,Basic,2023-05-05,2024-01-12,Monthly,651.28,36,12,24,Gaming,Pune,India,gmail.com,iOS,Credit Card,576.0,5,Yes,False
+CUST100316,Ira Nair,50,Female,684241.0,INR,88,Basic,2021-10-21,2022-10-28,Rarely,3020.99,1,0,1,Fashion,Bengaluru,India,hotmail.com,Android,Credit Card,858.0,3,No,False
+CUST100317,Riya Verma,27,Other,511664.0,INR,13,Platinum,2021-10-30,2023-01-30,Monthly,653.59,1,0,1,Books,Kolkata,India,gmail.com,iOS,UPI,2323.0,5,No,True
+CUST100318,Reyansh Rao,53,Female,266908.0,INR,49,Silver,2022-04-27,2022-07-30,Rarely,2936.73,46,6,40,Kids,Lucknow,India,hotmail.com,Android,UPI,458.0,4,No,False
+CUST100319,Aarav Das,34,Other,492178.0,INR,51,Silver,2024-11-28,2026-01-26,Monthly,1746.33,9,4,5,Gaming,Mumbai,India,gmail.com,iOS,Credit Card,0.0,3,Yes,False
+CUST100320,Ananya Nair,32,Male,132222.0,INR,56,Platinum,2025-03-11,2025-08-10,Weekly,733.54,1,0,1,Beauty,Hyderabad,India,gmail.com,iOS,Cash,763.0,1,No,False
+CUST100321,Sai Sharma,43,Female,1164048.0,INR,30,Basic,2023-05-17,2024-08-20,Rarely,1114.62,14,2,12,Kids,Hyderabad,India,company.com,iOS,Debit Card,1872.0,2,Yes,False
+CUST100322,Neha Reddy,44,Female,268916.0,INR,4,Basic,2022-02-20,2024-05-21,Weekly,4704.15,14,0,14,Kids,Kolkata,India,gmail.com,Android,Credit Card,2113.0,4,No,False
+CUST100323,Arjun Nair,21,Female,72964220.5,USD,70,Gold,2024-05-18,2025-02-01,Weekly,1312.01,40,26,14,Kids,Chennai,India,gmail.com,iOS,Credit Card,540.0,2,Yes,True
+CUST100324,Aditya Das,26,Male,122973456.0,USD,35,Silver,2023-04-16,2025-03-20,Weekly,1031.21,9,7,2,Fashion,Delhi,India,gmail.com,iOS,Credit Card,2300.0,5,No,False
+CUST100326,Sai Reddy,26,Male,290521.0,INR,59,Platinum,2023-10-26,2024-04-28,Monthly,4935.48,0,0,0,Fashion,Chennai,India,hotmail.com,Android,Credit Card,1853.0,4,No,False
+CUST100327,Aditya Patel,34,Female,412930.0,INR,48,Gold,2021-09-28,2023-10-26,Monthly,996.63,34,7,27,Food Court,Mumbai,India,outlook.com,iOS,Debit Card,1051.0,1,Yes,False
+CUST100328,Reyansh Nair,35,Female,736970.0,USD,58,Basic,2025-03-10,2026-03-04,Weekly,1041.43,9,5,4,Kids,Jaipur,India,outlook.com,Android,Debit Card,796.0,2,No,True
+CUST100329,Ayaan Chopra,38,Male,278387.0,INR,54,Gold,2021-03-29,2023-09-06,Daily,1106.73,17,15,2,Fashion,Jaipur,India,gmail.com,Desktop,Wallet,0.0,2,Yes,False
+CUST100330,Ananya Chopra,37,Female,436153.0,INR,35,Silver,2023-09-30,2024-09-14,Monthly,1723.53,12,4,8,Food Court,Chennai,India,hotmail.com,Desktop,Credit Card,2678.0,5,Yes,False
+CUST100331,Meera Mishra,28,Other,766331.0,INR,48,Platinum,2025-01-08,2025-10-12,Rarely,1381.85,32,5,27,Fashion,Ahmedabad,India,gmail.com,iOS,Debit Card,1843.0,5,Yes,False
+CUST100332,Sai Joshi,28,Female,292973.0,INR,84,Silver,2024-07-02,2025-04-11,Monthly,694.7,8,0,8,Gaming,Hyderabad,India,yahoo.com,Android,Credit Card,1807.0,2,No,False
+CUST100333,Arjun Patel,34,Female,865153.0,INR,24,Platinum,2025-02-22,2026-05-22,Monthly,2938.98,34,15,19,Food Court,Mumbai,India,gmail.com,Android,Wallet,556.0,4,No,False
+CUST100334,Myra Verma,33,Male,769288.0,INR,53,Gold,2023-05-19,2023-08-18,Daily,1725.65,14,5,9,Gaming,Ahmedabad,India,gmail.com,iOS,Debit Card,1066.0,5,No,True
+CUST100335,Pooja Verma,29,Other,448386.0,INR,100,Silver,2025-02-26,2025-05-27,Monthly,2769.05,3,0,3,Grocery,Kolkata,India,gmail.com,Android,Credit Card,1367.0,5,No,True
+CUST100336,Aadhya Chopra,27,Other,359670.0,INR,56,Basic,2023-05-10,2023-08-14,Monthly,1210.77,9,6,3,Home Decor,Mumbai,India,company.com,Desktop,UPI,2089.0,4,Yes,False
+CUST100337,Sara Reddy,36,Male,1205451.0,INR,45,Gold,2025-03-17,2025-03-17,Monthly,353.73,0,0,0,Sports,Chennai,India,yahoo.com,iOS,UPI,488.0,4,No,False
+CUST100338,Pooja Chopra,36,Male,630832.0,INR,66,Silver,2024-07-15,2025-12-30,Monthly,567.39,87,12,75,Fashion,Hyderabad,India,company.com,iOS,Debit Card,1015.0,2,No,False
+CUST100339,Saanvi Singh,27,Female,590789.0,INR,43,Basic,2021-12-06,2023-10-25,Monthly,2888.33,38,16,22,Gaming,Bengaluru,India,rediffmail.com,Android,Wallet,475.0,3,No,False
+CUST100340,Myra Mishra,27,Male,19242992.5,USD,53,Silver,2021-11-10,2022-02-18,Monthly,3455.16,14,11,3,Home Decor,Ahmedabad,India,rediffmail.com,Android,Credit Card,2410.0,1,Yes,False
+CUST100341,Aditya Reddy,34,Female,403050.0,INR,46,Basic,2021-07-09,2023-09-29,Monthly,818.62,0,0,0,Sports,Delhi,India,gmail.com,Android,Credit Card,2529.0,1,Yes,False
+CUST100342,Vivaan Patel,39,Male,510920.0,INR,59,Platinum,2025-07-18,2026-03-06,Weekly,3609.86,12,2,10,Electronics,Bengaluru,India,gmail.com,Desktop,Cash,428.0,2,Yes,False
+CUST100343,Pooja Gupta,48,Female,1182532.0,INR,41,Platinum,2022-12-08,2023-02-13,Rarely,1351.2,21,19,2,Sports,Bengaluru,India,outlook.com,Android,Credit Card,63.0,3,Yes,False
+CUST100344,Vivaan Das,40,Female,77627361.5,USD,31,Basic,2025-02-17,2026-03-04,Weekly,436.1,27,10,17,Sports,Delhi,India,hotmail.com,Desktop,Cash,446.0,5,No,False
+CUST100345,Rahul Nair,40,Other,83.5,USD,25,Gold,2024-01-25,2025-03-26,Weekly,4167.98,1,0,1,Sports,Hyderabad,India,gmail.com,Desktop,Wallet,1776.0,2,Yes,True
+CUST100346,Diya Gupta,29,Female,372674.0,INR,30,Silver,2022-07-08,2023-01-07,Monthly,7597.13,5,5,0,Gaming,Kolkata,India,outlook.com,Desktop,Debit Card,2046.0,3,No,False
+CUST100347,Priya Verma,34,Male,61683537.5,USD,61,Silver,2024-07-29,2025-12-06,Monthly,1139.74,29,12,17,Fashion,Delhi,India,gmail.com,Android,Credit Card,1343.0,2,No,False
+CUST100348,Vihaan Kumar,32,Female,435381.0,INR,64,Gold,2021-06-02,2024-08-20,Rarely,275.2,6,4,2,Gaming,Jaipur,India,hotmail.com,Android,Wallet,711.0,2,No,False
+CUST100349,Aditya Khan,37,Female,1403424.0,INR,50,Basic,2024-09-09,2024-09-09,Weekly,4559.41,20,1,19,Grocery,Jaipur,India,outlook.com,Desktop,Credit Card,943.0,3,No,False
+CUST100350,Meera Nair,36,Male,1499662.0,INR,68,Platinum,2022-12-07,2023-04-25,Rarely,778.7,5,1,4,Gaming,Jaipur,India,outlook.com,Android,Cash,565.0,5,No,False
+CUST100351,Riya Mehta,31,Female,795589.0,INR,44,Silver,2021-10-29,2023-11-09,Daily,1244.37,30,0,30,Grocery,Bengaluru,India,gmail.com,Android,Credit Card,1362.0,2,No,False
+CUST100352,Krishna Verma,43,Female,452205.0,INR,61,Gold,2022-07-19,2024-11-24,Monthly,1460.23,15,5,10,Home Decor,Pune,India,yahoo.com,Android,Wallet,421.0,5,Yes,False
+CUST100353,Pooja Iyer,42,Female,32113181.5,USD,32,Basic,2025-01-16,2026-03-27,Monthly,399.88,15,0,15,Fashion,Jaipur,India,hotmail.com,Desktop,UPI,1644.0,4,No,False
+CUST100354,Reyansh Mishra,27,Female,764884.0,INR,59,Gold,2024-04-20,2025-07-24,Daily,912.86,1,0,1,Gaming,Bengaluru,India,gmail.com,Desktop,Debit Card,1810.0,3,Yes,True
+CUST100104,Sai Khan,20,Male,453482.0,INR,84,Basic,2022-12-21,2025-05-27,Monthly,1280.02,5,1,4,Fashion,Hyderabad,India,gmail.com,Desktop,Wallet,1810.0,4,No,False
+CUST100356,Pooja Kapoor,23,Male,410354.0,INR,31,Basic,2024-05-02,2025-10-29,Daily,3247.21,48,43,5,Grocery,Mumbai,India,company.com,Desktop,Debit Card,0.0,1,Yes,False
+CUST100357,Aadhya Gupta,48,Female,1363521.0,INR,27,Gold,2021-10-06,2024-01-31,Monthly,1850.87,12,1,11,Grocery,Jaipur,India,gmail.com,Desktop,Credit Card,563.0,5,No,False
+CUST100358,Sai Das,38,Male,377018.0,INR,84,Silver,2024-10-08,2025-02-02,Monthly,4491.93,62,1,61,Kids,Bengaluru,India,gmail.com,Android,UPI,1523.0,5,No,False
+CUST100359,Kiara Kapoor,28,Female,496194.0,INR,71,Silver,2023-11-14,2024-07-04,Weekly,1034.88,9,5,4,Kids,Kolkata,India,gmail.com,iOS,UPI,1048.0,1,Yes,False
+CUST100360,Saanvi Das,31,Male,932435.0,INR,52,Silver,2022-05-25,2023-11-04,Monthly,2021.51,17,4,13,Electronics,Pune,India,gmail.com,Desktop,Cash,1188.0,4,Yes,False
+CUST100361,Aarav Iyer,53,Other,998165.0,INR,77,Basic,2022-04-15,2024-04-22,Monthly,670.95,8,2,6,Electronics,Pune,India,outlook.com,Android,UPI,753.0,3,No,False
+CUST100362,Meera Patel,38,Female,783687.0,INR,58,Basic,2024-04-17,2025-03-05,Monthly,784.81,4,3,1,Books,Pune,India,gmail.com,iOS,Credit Card,2644.0,1,No,False
+CUST100363,Kiara Verma,34,Female,1665385.0,INR,56,Gold,2021-09-19,2024-01-24,Monthly,2695.31,0,0,0,Fashion,Jaipur,India,gmail.com,Android,Cash,2364.0,4,Yes,False
+CUST100364,Ayaan Sinha,22,Female,75905842.0,USD,71,Platinum,2022-11-18,2023-10-29,Rarely,662.13,51,30,21,Kids,Hyderabad,India,outlook.com,Desktop,UPI,2114.0,1,Yes,False
+CUST100365,Kiara Nair,26,Male,265834.0,INR,53,Silver,2025-03-07,2025-06-23,Rarely,2326.45,36,0,36,Fashion,Hyderabad,India,gmail.com,Android,Debit Card,0.0,1,No,False
+CUST100366,Krishna Gupta,34,Female,608782.0,INR,64,Basic,2021-07-29,2023-06-12,Monthly,2129.74,0,0,0,Gaming,Delhi,India,company.com,iOS,Credit Card,981.0,3,Yes,False
+CUST100367,Riya Singh,20,Other,701363.0,INR,40,Basic,2022-02-03,2022-08-01,Rarely,2768.22,6,4,2,Grocery,Chennai,India,hotmail.com,iOS,Credit Card,1411.0,5,Yes,False
+CUST100368,Meera Joshi,33,Male,754712.0,INR,81,Gold,2024-11-24,2026-06-26,Rarely,1014.45,40,21,19,Kids,Jaipur,India,outlook.com,Android,Credit Card,684.0,3,No,False
+CUST100369,Priya Nair,34,Female,402467.0,INR,69,Silver,2021-03-02,2023-07-02,Rarely,2131.47,28,8,20,Kids,Bengaluru,India,gmail.com,iOS,UPI,1753.0,2,No,True
+CUST100370,Aarav Kapoor,34,Female,736970.0,INR,84,Basic,2021-02-04,2022-06-26,Rarely,1092.51,17,0,17,Beauty,Mumbai,India,yahoo.com,iOS,UPI,908.0,4,Yes,False
+CUST100371,Saanvi Khan,31,Female,736970.0,USD,100,Silver,2022-12-08,2024-01-22,Rarely,2512.93,2,1,1,Fashion,Jaipur,India,yahoo.com,Android,Wallet,1184.0,1,Yes,False
+CUST100372,Sai Patel,33,Male,1080389.0,INR,34,Basic,2023-07-15,2024-02-09,Monthly,1343.64,65,6,59,Food Court,Mumbai,India,gmail.com,Desktop,Debit Card,1673.0,2,No,False
+CUST100373,Pooja Singh,35,Other,878337.0,INR,78,Gold,2024-03-18,2026-04-25,Monthly,1506.33,3,2,1,Electronics,Ahmedabad,India,outlook.com,Android,UPI,0.0,1,Yes,True
+CUST100374,Sara Kapoor,48,Female,1066746.0,INR,21,Silver,2023-12-07,2025-10-03,Weekly,2513.64,50,33,17,Grocery,Kolkata,India,hotmail.com,Android,Credit Card,2877.0,5,Yes,False
+CUST100375,Aditya Rao,24,Female,364397.0,INR,54,Basic,2023-11-06,2025-02-16,Monthly,1062.45,17,11,6,Gaming,Pune,India,outlook.com,Desktop,UPI,2086.0,2,No,False
+CUST100376,Krishna Mehta,36,Female,1167809.0,INR,86,Platinum,2021-03-03,2023-01-11,Monthly,817.65,20,15,5,Electronics,Hyderabad,India,outlook.com,Android,Debit Card,1203.0,5,No,False
+CUST100377,Saanvi Kumar,39,Female,84480958.0,USD,14,Gold,2022-11-23,2024-12-01,Daily,1120.23,1,0,1,Sports,Pune,India,gmail.com,Android,UPI,707.0,2,No,True
+CUST100378,Vihaan Nair,34,Female,964951.0,INR,47,Basic,2021-04-07,2021-10-27,Monthly,1717.6,19,10,9,Sports,Pune,India,company.com,Desktop,UPI,963.0,1,No,True
+CUST100379,Vivaan Khan,34,Male,267643.0,INR,51,Silver,2023-08-27,2025-03-23,Monthly,546.93,27,4,23,Kids,Pune,India,outlook.com,Desktop,Debit Card,1962.0,2,Yes,False
+CUST100380,Ayaan Singh,34,Female,689553.0,INR,93,Gold,2024-06-12,2024-08-20,Rarely,1118.35,6,4,2,Fashion,Pune,India,gmail.com,Android,UPI,943.0,3,No,False
+CUST100381,Vihaan Singh,34,Other,378335.0,INR,50,Platinum,2025-06-04,2026-01-15,Rarely,676.43,14,4,10,Grocery,Kolkata,India,yahoo.com,Android,Credit Card,1616.0,3,Yes,False
+CUST100382,Arjun Patel,60,Female,468932.0,INR,50,Basic,2024-09-24,2026-01-03,Weekly,1182.38,1,0,1,Food Court,Jaipur,India,gmail.com,Desktop,Debit Card,489.0,4,Yes,False
+CUST100383,Neha Iyer,49,Female,170592.0,INR,68,Silver,2024-03-26,2025-10-27,Monthly,1372.94,46,30,16,Home Decor,Mumbai,India,company.com,Android,Debit Card,857.0,2,No,False
+CUST100384,Neha Khan,31,Female,201016.0,INR,79,Silver,2024-04-07,2025-06-30,Monthly,4325.28,23,2,21,Fashion,Pune,India,gmail.com,Android,Cash,978.0,4,No,False
+CUST100385,Meera Khan,34,Female,1654143.0,INR,29,Gold,2025-02-24,2026-02-28,Weekly,1408.02,13,10,3,Food Court,Pune,India,outlook.com,Desktop,UPI,1672.0,3,No,False
+CUST100386,Vihaan Joshi,32,Female,1123562.0,INR,43,Platinum,2021-08-24,2022-01-19,Monthly,1799.2,1,0,1,Grocery,Pune,India,gmail.com,Android,Debit Card,921.0,2,No,False
+CUST100387,Arjun Das,33,Male,510724.0,INR,39,Basic,2025-07-20,2025-12-21,Rarely,1128.78,4,0,4,Books,Lucknow,India,gmail.com,Android,UPI,2336.0,2,No,False
+CUST100388,Arjun Das,23,Male,406933.0,INR,73,Gold,2021-11-28,2023-04-02,Monthly,1539.5,15,7,8,Electronics,Ahmedabad,India,gmail.com,Android,Wallet,2616.0,5,No,False
+CUST100389,Vivaan Nair,44,Female,845110.0,INR,57,Platinum,2025-05-14,2025-11-08,Weekly,1200.2,8,7,1,Beauty,Bengaluru,India,outlook.com,Desktop,Credit Card,1835.0,1,No,False
+CUST100390,Neha Nair,34,Female,564298.0,INR,62,Platinum,2023-08-05,2025-08-03,Weekly,1661.08,6,0,6,Kids,Jaipur,India,rediffmail.com,iOS,Debit Card,971.0,2,Yes,False
+CUST100391,Vihaan Reddy,41,Female,191829476.5,USD,55,Basic,2021-11-01,2022-01-20,Weekly,4383.89,10,7,3,Grocery,Jaipur,India,hotmail.com,Android,Credit Card,2561.0,4,Yes,False
+CUST100392,Myra Kapoor,50,Male,1.0,INR,37,Platinum,2025-07-13,2026-05-10,Monthly,2394.88,6,1,5,Electronics,Lucknow,India,gmail.com,Android,Debit Card,313.0,5,No,False
+CUST100393,Rahul Mehta,34,Male,270509.0,INR,31,Gold,2021-01-31,2021-04-09,Weekly,5692.25,15,4,11,Gaming,Mumbai,India,yahoo.com,Android,UPI,1371.0,5,Yes,False
+CUST100394,Priya Patel,29,Female,677870.0,INR,100,Basic,2022-12-31,2024-06-17,Weekly,1095.91,40,12,28,Gaming,Lucknow,India,yahoo.com,Desktop,Credit Card,925.0,1,No,False
+CUST100395,Ira Iyer,33,Other,78197583.0,USD,68,Gold,2021-03-30,2022-11-22,Monthly,2249.48,12,8,4,Gaming,Lucknow,India,gmail.com,Desktop,Wallet,1952.0,4,Yes,False
+CUST100396,Ira Joshi,24,Male,470778.0,INR,78,Basic,2023-03-02,2023-07-25,Weekly,916.91,5,0,5,Electronics,Jaipur,India,outlook.com,Android,Debit Card,1314.0,5,No,True
+CUST100397,Ananya Sharma,31,Male,511131.0,INR,49,Silver,2024-05-13,2026-02-27,Monthly,851.49,15,11,4,Home Decor,Hyderabad,India,rediffmail.com,Desktop,UPI,1679.0,2,No,False
+CUST100398,Sai Joshi,36,Female,588946.0,INR,6,Silver,2024-03-19,2026-04-29,Weekly,3397.62,24,18,6,Gaming,Pune,India,rediffmail.com,Android,Debit Card,1341.0,1,No,False
+CUST100399,Ira Kapoor,25,Female,361768.0,INR,97,Platinum,2024-05-11,2026-04-06,Weekly,1029.25,5,3,2,Electronics,Lucknow,India,gmail.com,Desktop,UPI,527.0,1,No,False
+CUST100400,Ira Sharma,35,Female,797338.0,INR,26,Silver,2023-06-03,2024-10-24,Monthly,5995.93,4,0,4,Food Court,Hyderabad,India,hotmail.com,Desktop,Wallet,1037.0,3,No,True
+CUST100402,Ayaan Sinha,22,Male,22717260.5,USD,27,Gold,2023-01-04,2024-04-02,Rarely,635.87,85,10,75,Kids,Hyderabad,India,gmail.com,Desktop,UPI,1822.0,3,No,False
+CUST100403,Amit Patel,31,Female,808341.0,INR,65,Platinum,2023-01-23,2023-11-11,Daily,1578.84,37,13,24,Home Decor,Mumbai,India,gmail.com,Android,Credit Card,1021.0,4,No,False
+CUST100405,Pooja Singh,34,Other,322039.0,INR,53,Basic,2024-06-22,2025-01-30,Weekly,2856.77,5,0,5,Books,Chennai,India,outlook.com,Android,Credit Card,1479.0,4,No,False
+CUST100407,Reyansh Khan,31,Male,1297917.0,INR,59,Basic,2025-06-20,2025-08-06,Monthly,1183.29,19,14,5,Fashion,Kolkata,India,gmail.com,Android,Credit Card,1317.0,1,No,True
+CUST100408,Vihaan Joshi,25,Female,753810.0,INR,88,Silver,2021-01-27,2022-11-20,Daily,1611.83,11,9,2,Kids,Pune,India,hotmail.com,Desktop,Credit Card,1321.0,1,No,False
+CUST100409,Aarav Iyer,21,Male,720150.0,INR,79,Platinum,2023-12-02,2025-09-12,Weekly,2021.92,11,0,11,Books,Mumbai,India,gmail.com,iOS,Credit Card,643.0,5,No,True
+CUST100410,Sara Mehta,38,Male,562775.0,INR,35,Basic,2021-07-04,2023-05-22,Rarely,1756.95,7,5,2,Gaming,Lucknow,India,gmail.com,Desktop,Wallet,1342.0,5,Yes,True
+CUST100411,Sai Kapoor,28,Other,600354.0,INR,70,Silver,2024-03-22,2024-04-09,Weekly,1850.87,27,3,24,Kids,Jaipur,India,gmail.com,Android,Cash,1445.0,2,Yes,False
+CUST100412,Ayaan Rao,26,Female,134022.0,INR,60,Platinum,2021-08-26,2023-04-06,Monthly,2544.15,11,0,11,Fashion,Bengaluru,India,gmail.com,Android,Debit Card,596.0,4,Yes,False
+CUST100413,Aditya Nair,44,Other,351857.0,INR,34,Gold,2022-03-13,2024-08-14,Monthly,1400.24,5,2,3,Electronics,Bengaluru,India,outlook.com,iOS,Debit Card,2798.0,5,Yes,True
+CUST100414,Ananya Iyer,20,Male,953637.0,INR,67,Silver,2024-01-23,2025-04-12,Weekly,1523.14,35,5,30,Grocery,Delhi,India,company.com,Android,Wallet,871.0,5,Yes,False
+CUST100415,Ananya Das,26,Male,43885429.0,USD,40,Platinum,2025-04-18,2025-10-01,Daily,1947.62,2,2,0,Electronics,Ahmedabad,India,gmail.com,Android,UPI,447.0,2,Yes,False
+CUST100416,Vivaan Sinha,37,Male,165183875.0,USD,86,Basic,2021-04-14,2021-07-03,Weekly,5471.68,40,14,26,Kids,Bengaluru,India,gmail.com,Android,Cash,536.0,5,No,False
+CUST100417,Sara Sinha,44,Male,1213688.0,INR,56,Silver,2024-06-10,2024-09-14,Daily,819.74,20,15,5,Beauty,Hyderabad,India,rediffmail.com,Android,Debit Card,1092.0,5,Yes,False
+CUST100418,Ishaan Kumar,36,Male,801640.0,INR,57,Platinum,2025-04-03,2026-06-11,Daily,1394.7,33,10,23,Gaming,Delhi,India,gmail.com,Desktop,Credit Card,1618.0,3,Yes,False
+CUST100419,Ananya Gupta,19,Female,368937.0,INR,41,Basic,2021-11-07,2022-03-06,Monthly,1832.21,58,31,27,Beauty,Hyderabad,India,rediffmail.com,Desktop,UPI,529.0,4,No,True
+CUST100420,Priya Verma,53,Male,45805094.0,USD,100,Gold,2025-03-20,2025-12-26,Rarely,3176.58,22,2,20,Food Court,Chennai,India,gmail.com,iOS,UPI,1057.0,2,No,False
+CUST100421,Amit Sinha,42,Male,515957.0,INR,84,Platinum,2024-12-03,2025-07-12,Weekly,1601.84,24,18,6,Kids,Ahmedabad,India,outlook.com,Desktop,UPI,1834.0,3,Yes,False
+CUST100422,Sara Mehta,22,Male,1800876.0,INR,45,Silver,2021-09-26,2022-02-06,Daily,2485.54,23,16,7,Food Court,Ahmedabad,India,gmail.com,Desktop,Credit Card,273.0,3,No,False
+CUST100423,Sara Sinha,34,Female,1633158.0,INR,25,Gold,2025-03-15,2025-12-11,Weekly,3125.36,0,0,0,Beauty,Bengaluru,India,rediffmail.com,Android,Credit Card,1641.0,3,No,True
+CUST100424,Arjun Mishra,46,Male,912186.0,INR,81,Gold,2023-05-10,2024-07-07,Rarely,2577.7,27,21,6,Food Court,Bengaluru,India,gmail.com,Android,UPI,1517.0,2,Yes,True
+CUST100425,Ayaan Mehta,43,Female,1632332.0,INR,29,Silver,2022-09-30,2025-01-17,Weekly,991.01,76,73,3,Fashion,Jaipur,India,company.com,Desktop,UPI,1938.0,2,No,False
+CUST100426,Aditya Gupta,23,Male,465718.0,INR,15,Silver,2022-02-13,2023-02-17,Rarely,4029.48,9,6,3,Gaming,Chennai,India,gmail.com,iOS,UPI,1204.0,1,Yes,False
+CUST100428,Neha Chopra,52,Male,368595.0,INR,97,Platinum,2025-02-22,2026-05-26,Monthly,5900.76,5,0,5,Sports,Ahmedabad,India,rediffmail.com,Desktop,Credit Card,2027.0,4,Yes,False
+CUST100429,Ishaan Iyer,33,Female,785829.0,INR,62,Gold,2024-08-22,2026-02-04,Weekly,4295.4,9,5,4,Beauty,Bengaluru,India,gmail.com,Android,Credit Card,381.0,4,Yes,False
+CUST100430,Ishaan Verma,34,Male,979018.0,INR,59,Basic,2025-01-12,2026-01-29,Daily,3142.34,19,10,9,Food Court,Chennai,India,gmail.com,Desktop,UPI,1116.0,2,Yes,True
+CUST100431,Priya Mishra,22,Female,661597.0,INR,47,Silver,2021-03-21,2021-06-30,Daily,3058.99,57,43,14,Beauty,Hyderabad,India,company.com,iOS,Debit Card,796.0,5,No,False
+CUST100433,Meera Khan,36,Female,788748.0,INR,23,Silver,2025-08-24,2026-04-23,Monthly,2366.72,9,0,9,Gaming,Pune,India,gmail.com,Android,Credit Card,735.0,1,No,False
+CUST100434,Sara Sinha,42,Male,636135.0,INR,54,Gold,2022-02-18,2023-09-26,Weekly,840.03,4,0,4,Electronics,Hyderabad,India,rediffmail.com,Android,Debit Card,1893.0,5,No,False
+CUST100435,Riya Joshi,21,Female,693739.0,INR,49,Basic,2024-07-14,2025-08-09,Rarely,688.12,49,46,3,Home Decor,Jaipur,India,gmail.com,Android,Debit Card,1516.0,2,Yes,False
+CUST100436,Sara Gupta,34,Female,36318659.0,USD,36,Gold,2022-12-13,2024-02-22,Monthly,3490.52,10,4,6,Books,Kolkata,India,rediffmail.com,Android,UPI,1212.0,5,Yes,False
+CUST100437,Kiara Kumar,32,Male,565109.0,INR,55,Basic,2023-12-11,2025-09-06,Weekly,5846.06,12,7,5,Home Decor,Lucknow,India,gmail.com,Android,Wallet,1183.0,3,No,False
+CUST100438,Ananya Das,24,Female,736970.0,INR,33,Gold,2023-12-06,2025-07-24,Rarely,2168.05,2,1,1,Beauty,Jaipur,India,outlook.com,Desktop,UPI,776.0,2,Yes,True
+CUST100439,Ira Mishra,29,Male,1105717.0,INR,81,Basic,2025-02-18,2026-05-11,Monthly,2920.56,22,5,17,Home Decor,Hyderabad,India,hotmail.com,iOS,UPI,747.0,5,No,False
+CUST100440,Vivaan Kapoor,40,Male,367197.0,INR,68,Gold,2022-09-27,2024-01-08,Rarely,809.69,3,2,1,Gaming,Bengaluru,India,gmail.com,Desktop,Credit Card,839.0,4,No,False
+CUST100441,Arjun Khan,37,Male,200152.0,INR,49,Basic,2022-07-29,2023-10-04,Daily,5082.97,4,3,1,Food Court,Ahmedabad,India,company.com,Android,Credit Card,2108.0,5,Yes,True
+CUST100442,Neha Singh,33,Male,990368.0,INR,33,Silver,2025-03-13,2025-04-11,Weekly,2884.04,26,15,11,Gaming,Kolkata,India,outlook.com,Desktop,Debit Card,1462.0,2,No,False
+CUST100443,Ananya Chopra,34,Male,400851.0,INR,71,Platinum,2024-07-26,2025-12-15,Weekly,4066.13,13,10,3,Gaming,Hyderabad,India,gmail.com,iOS,Wallet,1386.0,3,No,False
+CUST100444,Neha Reddy,56,Male,1475801.0,INR,19,Basic,2023-11-18,2023-12-30,Monthly,729.1,1,0,1,Gaming,Mumbai,India,gmail.com,iOS,Debit Card,1534.0,1,No,True
+CUST100445,Ishaan Rao,42,Male,563955.0,INR,74,Silver,2021-08-20,2022-09-08,Daily,3090.07,10,1,9,Sports,Mumbai,India,company.com,Android,Debit Card,775.0,1,Yes,False
+CUST100446,Diya Singh,34,Male,1359942.0,INR,88,Platinum,2022-01-08,2023-02-18,Monthly,1780.62,7,4,3,Gaming,Lucknow,India,gmail.com,Desktop,Debit Card,1680.0,4,Yes,True
+CUST100447,Amit Kumar,58,Female,898939.0,INR,29,Silver,2024-09-30,2025-03-06,Rarely,1141.64,7,4,3,Food Court,Chennai,India,yahoo.com,Desktop,Debit Card,2152.0,3,No,False
+CUST100448,Rahul Chopra,36,Female,547604.0,INR,80,Gold,2023-05-10,2023-07-27,Rarely,2634.56,14,11,3,Beauty,Bengaluru,India,gmail.com,iOS,Credit Card,514.0,5,No,False
+CUST100449,Neha Chopra,38,Female,446558.0,INR,62,Silver,2025-06-18,2025-08-14,Monthly,2447.1,21,0,21,Kids,Mumbai,India,rediffmail.com,Desktop,Credit Card,53.0,5,Yes,False
+CUST100450,Aadhya Joshi,34,Male,66792902.5,USD,59,Platinum,2022-01-03,2022-10-06,Rarely,2315.54,7,3,4,Food Court,Mumbai,India,hotmail.com,Android,Credit Card,1564.0,5,Yes,False
+CUST100451,Sai Rao,34,Female,545962.0,INR,79,Gold,2022-05-23,2023-08-10,Daily,839.87,15,11,4,Grocery,Delhi,India,rediffmail.com,iOS,UPI,1858.0,2,No,False
+CUST100452,Amit Sharma,42,Male,939842.0,INR,79,Platinum,2023-08-15,2025-04-27,Daily,4508.24,34,27,7,Beauty,Chennai,India,gmail.com,iOS,Debit Card,883.0,3,No,False
+CUST100453,Priya Sinha,19,Male,1245308.0,INR,53,Basic,2021-10-07,2023-05-23,Weekly,6587.0,4,2,2,Home Decor,Lucknow,India,gmail.com,iOS,Credit Card,368.0,3,No,False
+CUST100454,Myra Singh,35,Male,682239.0,INR,52,Platinum,2022-06-28,2023-04-20,Monthly,3859.24,13,12,1,Grocery,Ahmedabad,India,gmail.com,Android,Wallet,398.0,1,Yes,True
+CUST100455,Vihaan Verma,56,Male,736970.0,INR,55,Gold,2022-06-21,2024-10-21,Monthly,3218.8,0,0,0,Home Decor,Delhi,India,gmail.com,Desktop,Debit Card,1399.0,1,Yes,False
+CUST100456,Myra Verma,34,Other,885297.0,INR,83,Platinum,2021-09-09,2021-10-27,Weekly,781.44,0,0,0,Fashion,Ahmedabad,India,rediffmail.com,Android,Debit Card,387.0,3,Yes,False
+CUST100457,Vihaan Gupta,42,Female,791850.0,INR,94,Basic,2025-05-28,2025-11-10,Daily,1261.8,6,1,5,Beauty,Mumbai,India,yahoo.com,Android,Cash,2031.0,4,No,False
+CUST100458,Ananya Reddy,34,Male,644316.0,INR,32,Silver,2024-04-11,2026-02-24,Monthly,1957.79,17,9,8,Home Decor,Ahmedabad,India,gmail.com,Android,Cash,377.0,5,No,False
+CUST100459,Vivaan Chopra,35,Male,736970.0,INR,36,Platinum,2024-05-20,2024-12-14,Rarely,1677.5,33,3,30,Books,Chennai,India,company.com,Android,UPI,1260.0,4,Yes,False
+CUST100460,Amit Joshi,49,Female,540090.0,INR,37,Platinum,2025-07-09,2026-03-28,Weekly,3180.8,7,4,3,Home Decor,Mumbai,India,outlook.com,iOS,Credit Card,1387.0,4,No,False
+CUST100461,Kiara Rao,47,Male,58996173.5,USD,64,Platinum,2023-12-25,2024-08-20,Weekly,1692.06,0,0,0,Sports,Chennai,India,gmail.com,Android,Debit Card,383.0,3,No,False
+CUST100462,Riya Gupta,45,Male,47491376.5,USD,18,Silver,2024-08-02,2026-04-17,Weekly,1026.03,33,27,6,Food Court,Lucknow,India,gmail.com,Desktop,Credit Card,321.0,1,No,True
+CUST100463,Reyansh Singh,20,Female,2064690.0,INR,40,Gold,2024-03-27,2024-05-14,Monthly,3900.48,44,42,2,Gaming,Bengaluru,India,gmail.com,Desktop,Debit Card,1071.0,3,Yes,False
+CUST100464,Arjun Rao,33,Male,538817.0,INR,24,Gold,2021-03-29,2022-01-13,Monthly,9074.43,6,3,3,Gaming,Chennai,India,hotmail.com,Android,UPI,754.0,5,Yes,False
+CUST100465,Kiara Mishra,47,Other,361293.0,INR,71,Platinum,2022-01-16,2023-01-16,Rarely,935.91,8,2,6,Food Court,Kolkata,India,yahoo.com,Desktop,Wallet,794.0,2,Yes,False
+CUST100467,Reyansh Das,22,Male,664836.0,INR,30,Silver,2022-05-01,2024-08-29,Rarely,475.17,17,7,10,Kids,Lucknow,India,company.com,Android,UPI,2341.0,5,Yes,False
+CUST100468,Aditya Reddy,32,Female,446167.0,INR,71,Basic,2022-12-16,2023-07-01,Weekly,2150.49,3,0,3,Fashion,Delhi,India,company.com,iOS,Credit Card,1243.0,1,Yes,True
+CUST100469,Neha Nair,42,Male,684607.0,INR,54,Gold,2023-08-12,2023-09-09,Rarely,955.58,22,6,16,Grocery,Chennai,India,gmail.com,Desktop,Credit Card,1830.0,4,Yes,False
+CUST100470,Aarav Sharma,34,Female,565340.0,INR,89,Basic,2025-01-17,2025-01-17,Monthly,884.15,0,0,0,Grocery,Ahmedabad,India,outlook.com,iOS,Credit Card,718.0,3,No,False
+CUST100471,Ishaan Singh,46,Male,1861383.0,INR,61,Gold,2025-06-11,2025-08-07,Monthly,7095.62,3,0,3,Electronics,Lucknow,India,yahoo.com,Desktop,UPI,0.0,2,No,False
+CUST100472,Ira Verma,51,Female,1109539.0,INR,43,Platinum,2021-09-25,2023-01-19,Rarely,1325.95,3,1,2,Fashion,Ahmedabad,India,yahoo.com,Desktop,Credit Card,902.0,3,No,False
+CUST100473,Sara Das,34,Female,88387338.5,USD,15,Basic,2021-05-01,2021-05-10,Monthly,735.53,29,25,4,Food Court,Pune,India,outlook.com,Android,UPI,520.0,1,Yes,False
+CUST100474,Pooja Nair,28,Female,658342.0,INR,67,Silver,2021-10-31,2023-11-01,Rarely,1193.64,5,3,2,Home Decor,Pune,India,yahoo.com,Android,UPI,1292.0,3,Yes,False
+CUST100475,Aarav Chopra,39,Male,1112205.0,INR,54,Basic,2023-07-25,2025-08-22,Monthly,2427.16,17,13,4,Food Court,Lucknow,India,gmail.com,iOS,UPI,0.0,5,Yes,False
+CUST100476,Arjun Reddy,56,Female,854478.0,INR,19,Platinum,2021-05-21,2022-05-27,Weekly,5800.6,2,0,2,Grocery,Chennai,India,yahoo.com,Android,Debit Card,677.0,3,Yes,True
+CUST100477,Ira Kumar,19,Female,315573.0,INR,52,Platinum,2025-06-06,2025-12-06,Weekly,4787.89,1,0,1,Books,Delhi,India,rediffmail.com,iOS,UPI,2031.0,2,No,True
+CUST100479,Arjun Mehta,30,Male,202852.0,INR,16,Basic,2021-12-13,2022-05-29,Weekly,1765.68,6,6,0,Kids,Ahmedabad,India,gmail.com,Android,Debit Card,1015.0,4,Yes,False
+CUST100480,Kiara Verma,23,Male,384942.0,INR,11,Basic,2022-07-11,2024-10-19,Monthly,892.52,30,8,22,Home Decor,Lucknow,India,yahoo.com,iOS,Debit Card,1986.0,3,Yes,False
+CUST100481,Aditya Gupta,21,Male,469830.0,INR,50,Gold,2022-07-22,2024-08-20,Monthly,3315.95,28,14,14,Gaming,Bengaluru,India,company.com,Desktop,Credit Card,2204.0,2,No,False
+CUST100482,Pooja Reddy,44,Female,736970.0,INR,69,Gold,2023-10-14,2025-11-17,Rarely,473.38,42,2,40,Sports,Jaipur,India,yahoo.com,iOS,Cash,399.0,2,No,False
+CUST100483,Riya Sinha,34,Male,769853.0,INR,48,Basic,2021-04-26,2023-04-28,Monthly,4409.07,13,0,13,Grocery,Chennai,India,yahoo.com,Android,Debit Card,1500.0,2,Yes,False
+CUST100484,Myra Rao,39,Male,535059.0,INR,51,Gold,2022-03-13,2024-08-26,Rarely,330.01,18,12,6,Food Court,Jaipur,India,outlook.com,iOS,UPI,1199.0,4,No,False
+CUST100485,Ayaan Reddy,50,Female,1088769.0,INR,29,Gold,2022-03-10,2024-02-27,Weekly,3277.11,69,65,4,Kids,Kolkata,India,rediffmail.com,Android,Cash,1136.0,1,Yes,False
+CUST100486,Vihaan Singh,19,Female,371115.0,INR,36,Basic,2021-11-15,2023-04-01,Monthly,1157.38,39,10,29,Books,Chennai,India,gmail.com,Android,Debit Card,2269.0,1,No,False
+CUST100487,Aarav Gupta,31,Other,548024.0,INR,72,Gold,2022-02-21,2022-04-24,Daily,1666.06,10,0,10,Books,Mumbai,India,gmail.com,Desktop,Debit Card,1356.0,1,No,False
+CUST100488,Kiara Singh,46,Female,871025.0,INR,28,Platinum,2021-01-22,2022-04-23,Daily,1559.89,33,31,2,Gaming,Kolkata,India,gmail.com,iOS,Credit Card,1451.0,4,Yes,False
+CUST100489,Neha Khan,27,Female,347076.0,INR,46,Platinum,2022-02-14,2023-09-28,Weekly,2104.82,3,0,3,Grocery,Kolkata,India,outlook.com,Desktop,Debit Card,1009.0,3,No,False
+CUST100490,Vivaan Verma,36,Female,616467.0,INR,78,Platinum,2024-05-27,2024-09-27,Monthly,2636.45,1,0,1,Electronics,Mumbai,India,rediffmail.com,Android,UPI,2593.0,5,No,False
+CUST100491,Sara Iyer,38,Female,646986.0,INR,75,Silver,2022-12-03,2024-11-03,Weekly,1312.62,1,0,1,Beauty,Pune,India,outlook.com,Desktop,Credit Card,1980.0,2,Yes,False
+CUST100492,Reyansh Sinha,34,Female,868593.0,INR,75,Basic,2021-04-08,2022-02-07,Rarely,1441.94,3,2,1,Grocery,Delhi,India,gmail.com,Desktop,Debit Card,2117.0,2,Yes,False
+CUST100493,Vivaan Kumar,40,Female,959490.0,INR,79,Basic,2023-05-10,2023-05-10,Daily,871.73,0,0,0,Grocery,Hyderabad,India,gmail.com,Android,Credit Card,1557.0,1,No,False
+CUST100494,Vihaan Singh,42,Male,14953681.0,USD,77,Platinum,2025-06-04,2025-10-19,Monthly,1210.32,10,1,9,Home Decor,Lucknow,India,yahoo.com,Android,Credit Card,2277.0,5,Yes,False
+CUST100495,Kiara Mishra,24,Male,1156186.0,INR,32,Basic,2021-07-24,2022-11-29,Rarely,1850.87,2,0,2,Kids,Pune,India,gmail.com,Android,Cash,749.0,5,Yes,True
+CUST100496,Saanvi Kapoor,25,Female,1100347.0,INR,50,Silver,2021-04-12,2022-09-23,Monthly,831.12,1,1,0,Kids,Bengaluru,India,gmail.com,iOS,Credit Card,2227.0,3,Yes,True
+CUST100497,Pooja Khan,20,Male,453535.0,INR,24,Basic,2024-06-18,2024-08-15,Monthly,1344.18,4,1,3,Grocery,Ahmedabad,India,rediffmail.com,Android,Debit Card,1125.0,3,No,True
+CUST100498,Reyansh Mehta,20,Male,120000.0,INR,42,Silver,2022-01-11,2024-06-19,Rarely,1084.4,9,6,3,Electronics,Mumbai,India,gmail.com,Desktop,UPI,766.0,3,No,False
+CUST100499,Ishaan Rao,34,Male,611099.0,INR,80,Basic,2022-01-15,2022-03-24,Monthly,2159.93,5,4,1,Beauty,Kolkata,India,company.com,Android,UPI,900.0,2,Yes,False
+CUST100500,Ishaan Singh,39,Male,569806.0,INR,57,Gold,2023-06-30,2025-10-22,Rarely,921.09,15,3,12,Home Decor,Bengaluru,India,outlook.com,Android,Debit Card,1165.0,5,No,False
+CUST100501,Pooja Mehta,22,Male,83226955.0,USD,58,Platinum,2022-11-28,2023-03-10,Weekly,3828.15,5,3,2,Books,Chennai,India,gmail.com,Android,UPI,1594.0,1,Yes,False
+CUST100502,Ayaan Khan,34,Male,554620.0,INR,73,Silver,2024-12-17,2025-09-15,Monthly,905.84,0,0,0,Food Court,Jaipur,India,gmail.com,Desktop,UPI,1830.0,3,Yes,False
+CUST100503,Saanvi Reddy,33,Female,249900.0,INR,36,Basic,2025-03-22,2025-11-08,Daily,2477.14,6,2,4,Gaming,Kolkata,India,gmail.com,Desktop,UPI,832.0,1,No,False
+CUST100504,Amit Gupta,40,Male,557917.0,INR,16,Basic,2023-05-21,2025-01-16,Monthly,2899.13,0,0,0,Fashion,Jaipur,India,gmail.com,Android,Credit Card,1906.0,1,Yes,True
+CUST100505,Vivaan Patel,35,Male,736970.0,INR,22,Basic,2024-10-05,2025-08-10,Monthly,5780.28,7,4,3,Grocery,Jaipur,India,outlook.com,Android,Credit Card,911.0,4,No,False
+CUST100506,Ishaan Sharma,23,Female,1442671.0,INR,38,Basic,2021-01-13,2022-07-13,Daily,1651.31,38,7,31,Grocery,Jaipur,India,yahoo.com,Desktop,Credit Card,1480.0,1,No,True
+CUST100507,Pooja Reddy,47,Female,1177294.0,INR,54,Silver,2023-05-10,2026-05-13,Rarely,6774.14,12,9,3,Electronics,Pune,India,gmail.com,Android,Cash,693.0,3,No,False
+CUST100508,Aadhya Singh,19,Male,453647.0,INR,39,Basic,2023-11-27,2025-09-12,Weekly,1867.5,9,0,9,Electronics,Bengaluru,India,gmail.com,iOS,Credit Card,1486.0,5,Yes,True
+CUST100509,Aditya Gupta,27,Male,1172448.0,INR,22,Silver,2024-07-25,2025-01-20,Rarely,2419.0,28,11,17,Electronics,Lucknow,India,gmail.com,Android,Credit Card,831.0,2,No,False
+CUST100510,Saanvi Patel,26,Male,1440884.0,INR,74,Basic,2025-04-08,2025-11-23,Weekly,1074.17,14,6,8,Home Decor,Mumbai,India,gmail.com,Android,Credit Card,2498.0,4,Yes,False
+CUST100511,Sara Singh,21,Male,55547373.0,USD,62,Platinum,2025-05-08,2026-03-23,Rarely,1427.14,9,8,1,Gaming,Lucknow,India,gmail.com,Desktop,Debit Card,1597.0,1,Yes,False
+CUST100512,Saanvi Nair,31,Female,458022.0,INR,1,Gold,2025-05-19,2025-12-27,Weekly,1665.49,15,6,9,Grocery,Jaipur,India,gmail.com,iOS,UPI,1446.0,2,No,False
+CUST100513,Sai Singh,39,Male,1005335.0,INR,49,Gold,2022-03-22,2023-01-23,Monthly,3560.04,28,20,8,Electronics,Ahmedabad,India,hotmail.com,Desktop,Cash,673.0,5,Yes,True
+CUST100514,Arjun Das,26,Female,200158.0,INR,81,Silver,2023-04-04,2024-10-01,Rarely,6900.63,16,2,14,Sports,Kolkata,India,outlook.com,Desktop,Cash,909.0,5,No,False
+CUST100515,Ishaan Das,28,Male,49550236.0,USD,38,Silver,2021-05-08,2021-12-25,Monthly,1532.17,11,7,4,Sports,Ahmedabad,India,gmail.com,Desktop,Debit Card,755.0,5,Yes,False
+CUST100516,Aadhya Mehta,34,Female,914848.0,INR,60,Basic,2022-07-03,2023-06-28,Weekly,1940.79,27,17,10,Gaming,Bengaluru,India,company.com,Android,UPI,323.0,5,No,False
+CUST100517,Ira Sharma,34,Other,736970.0,INR,96,Platinum,2024-04-20,2025-05-16,Rarely,2111.94,1,0,1,Beauty,Lucknow,India,hotmail.com,Android,Cash,508.0,3,No,False
+CUST100518,Reyansh Singh,34,Female,104417334.5,USD,28,Gold,2024-05-24,2025-12-16,Monthly,1741.85,1,0,1,Kids,Delhi,India,outlook.com,Desktop,Cash,1184.0,3,No,True
+CUST100519,Meera Khan,46,Female,1535948.0,INR,75,Silver,2022-07-13,2023-07-20,Rarely,2787.63,1,0,1,Beauty,Bengaluru,India,outlook.com,Android,UPI,2149.0,2,No,False
+CUST100520,Ira Kumar,42,Female,373140.0,INR,51,Basic,2025-07-23,2025-07-23,Monthly,1841.7,12,6,6,Electronics,Hyderabad,India,gmail.com,Desktop,UPI,1525.0,4,Yes,False
+CUST100521,Ishaan Das,38,Female,803857.0,INR,67,Silver,2021-03-30,2021-08-13,Weekly,2528.86,35,20,15,Kids,Chennai,India,rediffmail.com,Desktop,UPI,1385.0,5,No,False
+CUST100522,Myra Sharma,33,Male,980290.0,INR,74,Gold,2024-12-03,2026-01-24,Rarely,2108.55,21,2,19,Fashion,Pune,India,gmail.com,iOS,Debit Card,549.0,5,Yes,False
+CUST100523,Amit Rao,34,Female,541038.0,INR,73,Gold,2022-05-18,2024-01-12,Monthly,1281.33,15,5,10,Gaming,Bengaluru,India,gmail.com,Desktop,Cash,541.0,3,Yes,False
+CUST100524,Riya Iyer,34,Male,692240.0,INR,41,Platinum,2025-05-01,2025-08-04,Monthly,1327.46,18,8,10,Sports,Bengaluru,India,rediffmail.com,iOS,Wallet,882.0,2,No,True
+CUST100525,Pooja Gupta,25,Female,1298210.0,INR,88,Platinum,2024-06-27,2026-06-23,Rarely,690.79,16,2,14,Fashion,Mumbai,India,company.com,Desktop,UPI,1196.0,5,No,False
+CUST100526,Aadhya Sharma,33,Male,798179.0,INR,75,Silver,2025-05-15,2025-07-31,Weekly,1427.49,9,6,3,Books,Pune,India,gmail.com,iOS,Debit Card,841.0,4,No,True
+CUST100527,Krishna Mishra,21,Male,531171.0,INR,24,Basic,2023-11-03,2024-04-22,Rarely,1560.75,6,3,3,Sports,Hyderabad,India,hotmail.com,Android,Credit Card,1086.0,4,No,False
+CUST100528,Neha Kapoor,27,Female,939238.0,INR,49,Gold,2021-10-20,2024-02-10,Rarely,3885.01,24,21,3,Books,Lucknow,India,gmail.com,iOS,Debit Card,1193.0,1,No,False
+CUST100529,Myra Chopra,38,Female,781513.0,INR,65,Gold,2025-03-09,2025-11-22,Monthly,877.81,50,15,35,Home Decor,Mumbai,India,company.com,Android,Wallet,1066.0,5,Yes,False
+CUST100530,Priya Chopra,30,Female,680679.0,INR,19,Gold,2022-02-17,2023-03-28,Rarely,4127.12,3,2,1,Beauty,Chennai,India,company.com,Desktop,Credit Card,723.0,3,No,True
+CUST100531,Sara Kapoor,33,Other,672388.0,INR,78,Silver,2021-05-27,2022-07-25,Monthly,1353.52,9,4,5,Sports,Mumbai,India,gmail.com,Android,Credit Card,1200.0,5,No,False
+CUST100532,Riya Sinha,34,Female,969032.0,INR,32,Gold,2025-02-16,2025-11-16,Weekly,3440.42,3,2,1,Fashion,Pune,India,gmail.com,Android,UPI,1146.0,4,No,True
+CUST100533,Aditya Verma,23,Female,1814625.0,INR,59,Platinum,2024-08-01,2025-03-17,Rarely,2170.77,78,76,2,Grocery,Hyderabad,India,outlook.com,Android,Cash,1080.0,5,Yes,False
+CUST100534,Sara Sharma,49,Male,613244.0,INR,12,Silver,2022-02-17,2022-02-20,Monthly,4266.98,3,0,3,Home Decor,Ahmedabad,India,company.com,iOS,Credit Card,168.0,2,No,True
+CUST100535,Arjun Rao,34,Female,361972.0,INR,56,Basic,2025-04-15,2025-05-31,Weekly,2574.98,60,55,5,Gaming,Ahmedabad,India,hotmail.com,Android,UPI,1082.0,5,Yes,True
+CUST100536,Meera Patel,32,Female,1119335.0,INR,41,Silver,2025-06-09,2026-01-22,Weekly,2384.97,29,28,1,Kids,Chennai,India,gmail.com,Android,Credit Card,475.0,2,No,False
+CUST100537,Myra Reddy,34,Male,636152.0,INR,59,Basic,2022-11-15,2024-12-09,Monthly,2577.03,8,0,8,Electronics,Kolkata,India,rediffmail.com,Android,Cash,1260.0,2,Yes,False
+CUST100538,Ananya Khan,31,Female,1803687.0,INR,36,Gold,2023-11-13,2025-08-02,Monthly,1546.54,0,0,0,Books,Jaipur,India,gmail.com,Android,Cash,752.0,1,No,False
+CUST100539,Rahul Das,33,Female,1401799.0,INR,73,Silver,2023-06-29,2023-10-23,Monthly,780.4,67,53,14,Home Decor,Pune,India,gmail.com,Android,Cash,604.0,4,Yes,False
+CUST100540,Rahul Gupta,24,Male,385230.0,INR,48,Basic,2021-11-25,2023-08-02,Weekly,1000.75,11,7,4,Books,Kolkata,India,gmail.com,Android,Cash,1613.0,1,No,False
+CUST100543,Vihaan Kapoor,47,Male,111622382.5,USD,50,Platinum,2024-07-25,2025-06-01,Monthly,2239.77,1,0,1,Gaming,Ahmedabad,India,rediffmail.com,Desktop,UPI,1780.0,3,Yes,True
+CUST100544,Aditya Mehta,27,Female,634847.0,INR,54,Platinum,2025-02-01,2025-09-02,Daily,3249.95,16,0,16,Books,Mumbai,India,hotmail.com,Desktop,UPI,1485.0,3,No,False
+CUST100545,Aditya Patel,21,Female,61428361.5,USD,61,Basic,2023-06-22,2024-11-10,Weekly,2090.76,36,0,36,Fashion,Lucknow,India,yahoo.com,Android,Debit Card,1468.0,3,No,False
+CUST100546,Saanvi Mishra,32,Male,779438.0,INR,43,Gold,2024-03-30,2026-01-31,Daily,806.17,0,0,0,Electronics,Kolkata,India,yahoo.com,iOS,Wallet,1825.0,1,Yes,True
+CUST100547,Pooja Reddy,28,Female,736970.0,INR,56,Basic,2025-02-24,2025-11-16,Rarely,1581.14,3,0,3,Food Court,Kolkata,India,outlook.com,Desktop,Debit Card,1805.0,2,No,False
+CUST100548,Sara Rao,34,Female,75684066.0,USD,53,Basic,2023-03-30,2024-01-29,Weekly,1150.25,9,2,7,Books,Bengaluru,India,gmail.com,Desktop,Credit Card,2428.0,1,No,True
+CUST100549,Sara Khan,45,Male,1280065.0,INR,52,Basic,2024-08-02,2026-01-07,Rarely,1441.1,12,10,2,Beauty,Kolkata,India,gmail.com,Desktop,Cash,1919.0,3,Yes,False
+CUST100551,Pooja Das,32,Female,736970.0,USD,46,Platinum,2021-07-15,2022-04-21,Weekly,8571.31,2,0,2,Electronics,Delhi,India,gmail.com,Desktop,Credit Card,1424.0,1,No,False
+CUST100552,Myra Kumar,38,Female,736970.0,INR,62,Basic,2023-02-24,2024-08-20,Daily,1850.87,32,2,30,Food Court,Lucknow,India,gmail.com,iOS,Cash,742.0,2,Yes,False
+CUST100553,Vivaan Das,39,Male,561099.0,INR,100,Silver,2024-01-23,2026-04-18,Monthly,359.19,55,15,40,Beauty,Pune,India,gmail.com,Android,Credit Card,1752.0,5,No,False
+CUST100554,Vihaan Nair,40,Female,519789.0,INR,62,Gold,2023-05-22,2023-07-23,Weekly,891.12,14,2,12,Beauty,Bengaluru,India,gmail.com,Android,Credit Card,1240.0,4,No,False
+CUST100555,Ishaan Gupta,38,Female,804303.0,INR,61,Gold,2023-06-13,2024-10-12,Monthly,4399.88,1,0,1,Fashion,Pune,India,hotmail.com,Desktop,UPI,962.0,5,No,False
+CUST100556,Aadhya Verma,30,Male,45460907.0,USD,47,Basic,2021-05-14,2023-05-08,Daily,662.49,8,5,3,Home Decor,Mumbai,India,yahoo.com,Android,Debit Card,1526.0,1,No,True
+CUST100557,Diya Gupta,31,Female,468662.0,INR,57,Silver,2021-01-11,2021-01-14,Monthly,2681.6,36,9,27,Electronics,Chennai,India,gmail.com,Android,UPI,1864.0,2,No,False
+CUST100558,Vihaan Verma,34,Male,713679.0,INR,61,Silver,2025-05-05,2025-10-12,Rarely,1469.53,1,0,1,Food Court,Chennai,India,gmail.com,iOS,UPI,2552.0,1,Yes,True
+CUST100559,Aadhya Kapoor,48,Female,516272.0,INR,36,Platinum,2023-08-20,2025-03-11,Daily,3810.72,35,4,31,Gaming,Pune,India,rediffmail.com,Android,UPI,0.0,4,Yes,False
+CUST100560,Pooja Mehta,34,Female,736970.0,INR,37,Gold,2024-07-29,2024-09-17,Weekly,2269.76,16,11,5,Beauty,Chennai,India,gmail.com,iOS,Wallet,1054.0,4,No,False
+CUST100561,Aadhya Singh,24,Female,659222.0,INR,79,Gold,2025-05-04,2026-01-14,Rarely,1235.76,18,2,16,Beauty,Mumbai,India,gmail.com,Desktop,Debit Card,1381.0,2,Yes,False
+CUST100562,Kiara Mishra,46,Male,336376.0,INR,45,Basic,2022-11-24,2024-10-15,Rarely,3067.09,3,1,2,Fashion,Hyderabad,India,outlook.com,Desktop,UPI,1466.0,2,Yes,False
+CUST100563,Reyansh Verma,40,Female,17379940.5,USD,48,Basic,2021-03-09,2021-10-15,Weekly,854.01,41,15,26,Grocery,Jaipur,India,outlook.com,Desktop,Credit Card,356.0,1,No,True
+CUST100564,Aadhya Sharma,42,Female,430128.0,INR,28,Basic,2025-07-05,2025-10-24,Monthly,3203.95,8,7,1,Food Court,Chennai,India,company.com,Android,Credit Card,1238.0,4,Yes,False
+CUST100565,Rahul Sinha,40,Male,498900.0,INR,59,Gold,2024-08-20,2025-07-14,Monthly,2651.45,2,1,1,Sports,Chennai,India,outlook.com,iOS,Debit Card,389.0,4,Yes,False
+CUST100566,Neha Mehta,35,Other,809558.0,INR,45,Silver,2022-11-21,2025-01-20,Rarely,3215.85,33,20,13,Beauty,Pune,India,gmail.com,Android,Credit Card,1203.0,2,No,True
+CUST100567,Krishna Chopra,32,Male,551903.0,INR,50,Basic,2025-07-08,2025-09-19,Monthly,3838.44,9,1,8,Gaming,Pune,India,yahoo.com,Android,Wallet,936.0,3,No,True
+CUST100568,Meera Kumar,25,Male,1395660.0,INR,94,Gold,2023-05-06,2024-08-20,Daily,7100.41,3,1,2,Food Court,Hyderabad,India,gmail.com,Android,Wallet,643.0,3,No,False
+CUST100569,Aditya Joshi,34,Female,270365.0,INR,65,Basic,2021-10-02,2022-01-05,Daily,1850.87,19,8,11,Food Court,Lucknow,India,hotmail.com,Android,Credit Card,683.0,2,Yes,False
+CUST100570,Ishaan Mishra,34,Female,821749.0,INR,83,Platinum,2023-05-17,2025-10-02,Monthly,1850.87,26,22,4,Home Decor,Mumbai,India,outlook.com,iOS,UPI,1200.0,4,Yes,True
+CUST100571,Rahul Kumar,43,Other,1105927.0,INR,45,Basic,2023-12-09,2025-12-29,Rarely,1902.37,6,6,0,Books,Lucknow,India,gmail.com,iOS,Credit Card,669.0,5,No,False
+CUST100572,Diya Chopra,48,Female,590032.0,INR,49,Platinum,2024-05-26,2025-11-16,Rarely,2527.67,58,35,23,Grocery,Pune,India,gmail.com,Android,Cash,1146.0,5,Yes,False
+CUST100573,Ira Sinha,43,Male,373535.0,INR,63,Silver,2025-04-08,2025-12-24,Monthly,2307.39,5,4,1,Grocery,Jaipur,India,hotmail.com,Desktop,Debit Card,1731.0,1,Yes,False
+CUST100574,Rahul Rao,34,Male,1031927.0,INR,42,Silver,2023-01-30,2023-12-03,Weekly,282.94,29,20,9,Sports,Kolkata,India,yahoo.com,iOS,Credit Card,2046.0,5,Yes,False
+CUST100575,Priya Sinha,19,Female,736970.0,INR,14,Basic,2022-08-28,2024-07-19,Monthly,3074.75,9,0,9,Beauty,Ahmedabad,India,gmail.com,Desktop,Credit Card,1257.0,1,Yes,False
+CUST100576,Sara Reddy,34,Female,559428.0,INR,52,Basic,2022-02-15,2024-01-27,Weekly,874.23,20,13,7,Fashion,Pune,India,yahoo.com,Android,Credit Card,1547.0,3,No,False
+CUST100577,Neha Chopra,31,Female,311213.0,INR,57,Platinum,2024-02-14,2024-09-09,Rarely,6677.72,23,14,9,Food Court,Mumbai,India,yahoo.com,Android,Debit Card,507.0,5,Yes,False
+CUST100578,Reyansh Singh,34,Male,325007.0,INR,38,Platinum,2021-03-22,2023-06-30,Weekly,2448.7,40,35,5,Grocery,Chennai,India,hotmail.com,Android,UPI,1077.0,5,No,False
+CUST100579,Pooja Gupta,21,Female,962597.0,INR,78,Basic,2024-05-03,2025-12-26,Weekly,2294.33,41,2,39,Home Decor,Delhi,India,rediffmail.com,iOS,Cash,377.0,2,No,False
+CUST100581,Meera Nair,32,Male,53871444.5,USD,45,Gold,2024-01-21,2025-07-12,Rarely,1544.62,19,10,9,Books,Ahmedabad,India,gmail.com,Android,Debit Card,1478.0,2,No,False
+CUST100582,Reyansh Patel,44,Female,696607.0,INR,36,Basic,2022-01-20,2023-08-13,Monthly,1536.77,3,0,3,Beauty,Chennai,India,gmail.com,Android,Credit Card,682.0,4,No,False
+CUST100583,Riya Mehta,30,Male,1127601.0,INR,54,Silver,2023-12-07,2025-03-08,Daily,2518.7,22,4,18,Books,Pune,India,hotmail.com,Android,Credit Card,1143.0,3,Yes,False
+CUST100584,Myra Verma,35,Male,648838.0,INR,69,Basic,2024-03-21,2025-06-26,Monthly,379.08,43,27,16,Kids,Jaipur,India,gmail.com,iOS,UPI,145.0,1,Yes,False
+CUST100585,Riya Verma,30,Female,846453.0,INR,86,Silver,2024-02-25,2026-03-25,Daily,1873.92,12,7,5,Electronics,Bengaluru,India,gmail.com,Android,Wallet,1577.0,4,Yes,False
+CUST100586,Ira Sharma,22,Female,260131.0,INR,49,Gold,2025-04-02,2026-02-04,Monthly,1669.44,13,5,8,Books,Kolkata,India,gmail.com,iOS,UPI,339.0,3,Yes,False
+CUST100587,Ira Mishra,40,Male,41207667.5,USD,63,Platinum,2024-06-24,2025-05-28,Weekly,9594.1,16,12,4,Grocery,Jaipur,India,hotmail.com,Android,Cash,862.0,2,Yes,False
+CUST100588,Reyansh Iyer,38,Female,21368902.5,USD,67,Gold,2022-09-16,2024-08-20,Rarely,663.05,17,9,8,Fashion,Chennai,India,rediffmail.com,Desktop,Credit Card,43.0,5,Yes,True
+CUST100589,Sai Nair,42,Female,736970.0,INR,58,Silver,2022-04-27,2024-01-20,Rarely,366.81,17,1,16,Grocery,Kolkata,India,yahoo.com,iOS,Debit Card,2070.0,2,No,False
+CUST100590,Neha Nair,25,Other,1068887.0,INR,62,Platinum,2023-01-11,2025-03-06,Weekly,1235.56,2,2,0,Fashion,Lucknow,India,outlook.com,Android,Debit Card,918.0,3,No,False
+CUST100591,Reyansh Rao,40,Female,736970.0,USD,56,Gold,2021-08-17,2023-12-27,Rarely,1159.8,16,6,10,Gaming,Chennai,India,company.com,iOS,UPI,578.0,5,No,False
+CUST100592,Aarav Nair,30,Male,560050.0,INR,53,Basic,2024-02-22,2025-07-12,Rarely,3450.62,80,0,80,Fashion,Bengaluru,India,gmail.com,Android,Credit Card,1285.0,4,Yes,False
+CUST100593,Ayaan Joshi,27,Female,43012269.5,USD,34,Silver,2023-01-11,2025-04-05,Rarely,1990.45,1,0,1,Sports,Jaipur,India,gmail.com,Android,UPI,1416.0,4,No,True
+CUST100594,Kiara Sinha,54,Male,24119893.5,USD,100,Gold,2021-02-26,2023-05-20,Monthly,3300.9,10,4,6,Gaming,Bengaluru,India,company.com,iOS,Cash,899.0,3,No,False
+CUST100595,Aditya Das,27,Male,54372528.0,USD,24,Platinum,2025-08-26,2026-03-09,Monthly,820.11,3,1,2,Food Court,Bengaluru,India,yahoo.com,iOS,Debit Card,1379.0,1,Yes,True
+CUST100596,Amit Iyer,39,Male,802242.0,INR,42,Gold,2024-01-09,2025-08-09,Weekly,1127.4,5,2,3,Electronics,Bengaluru,India,outlook.com,Android,UPI,1585.0,2,No,False
+CUST100597,Meera Sinha,56,Male,985280.0,INR,73,Basic,2022-01-30,2022-02-19,Monthly,1304.41,10,1,9,Books,Pune,India,company.com,iOS,Credit Card,163.0,4,No,False
+CUST100598,Amit Mishra,31,Male,1328314.0,INR,29,Silver,2024-07-18,2026-06-19,Monthly,1517.52,0,0,0,Kids,Chennai,India,hotmail.com,Android,UPI,937.0,3,No,True
+CUST100600,Myra Iyer,47,Other,729755.0,INR,62,Gold,2022-01-13,2022-12-09,Rarely,7548.48,1,1,0,Kids,Delhi,India,yahoo.com,Desktop,Credit Card,0.0,4,No,True
+CUST100601,Myra Chopra,52,Male,620335.0,INR,57,Basic,2024-09-16,2025-07-26,Rarely,2526.8,6,6,0,Beauty,Delhi,India,outlook.com,iOS,Debit Card,81.0,4,No,False
+CUST100602,Arjun Sharma,34,Male,824257.0,INR,61,Basic,2025-02-11,2025-06-11,Weekly,2420.72,34,9,25,Grocery,Hyderabad,India,company.com,Desktop,UPI,1550.0,3,No,False
+CUST100603,Aarav Nair,27,Female,583179.0,INR,31,Basic,2024-06-23,2026-06-16,Monthly,1087.45,16,1,15,Gaming,Bengaluru,India,outlook.com,Android,Debit Card,2537.0,5,No,False
+CUST100604,Sara Nair,42,Male,989097.0,INR,57,Silver,2025-03-26,2025-07-02,Weekly,2557.63,0,0,0,Food Court,Lucknow,India,gmail.com,iOS,Credit Card,2002.0,2,No,False
+CUST100605,Krishna Sinha,34,Female,977696.0,INR,28,Silver,2021-10-01,2024-08-20,Rarely,1213.9,6,4,2,Gaming,Pune,India,hotmail.com,Desktop,Credit Card,182.0,5,No,False
+CUST100606,Aarav Mishra,34,Female,24575887.0,USD,52,Silver,2023-07-22,2024-02-24,Rarely,942.54,25,19,6,Beauty,Chennai,India,company.com,iOS,Credit Card,1191.0,5,Yes,False
+CUST100607,Saanvi Khan,32,Female,350762.0,INR,100,Gold,2025-01-30,2026-04-07,Daily,2226.51,8,6,2,Beauty,Jaipur,India,hotmail.com,Android,UPI,1811.0,2,Yes,True
+CUST100608,Ayaan Mishra,32,Female,578387.0,INR,14,Silver,2024-10-29,2025-07-02,Monthly,3489.49,28,3,25,Kids,Pune,India,yahoo.com,Android,Credit Card,469.0,2,Yes,True
+CUST100609,Ayaan Verma,20,Female,80809379.5,USD,40,Gold,2021-10-28,2021-12-19,Rarely,1045.86,23,10,13,Grocery,Jaipur,India,company.com,iOS,Wallet,1287.0,2,Yes,False
+CUST100610,Aarav Iyer,47,Male,32076191.0,USD,55,Platinum,2023-10-13,2025-12-12,Rarely,3117.2,14,9,5,Home Decor,Kolkata,India,rediffmail.com,Android,UPI,1848.0,2,No,False
+CUST100611,Ayaan Khan,35,Female,469005.0,INR,63,Platinum,2021-04-06,2022-11-11,Weekly,5101.5,26,1,25,Grocery,Chennai,India,gmail.com,Android,Wallet,1268.0,3,Yes,False
+CUST100612,Amit Das,65,Male,69020933.0,USD,66,Gold,2025-04-17,2026-02-17,Monthly,462.87,26,9,17,Beauty,Lucknow,India,gmail.com,Android,Credit Card,408.0,3,No,False
+CUST100613,Reyansh Patel,28,Female,82168008.0,USD,51,Silver,2021-01-08,2023-01-25,Daily,4170.81,8,2,6,Food Court,Kolkata,India,yahoo.com,iOS,Debit Card,1372.0,4,No,False
+CUST100614,Aditya Chopra,39,Female,471243.0,INR,64,Platinum,2024-08-14,2025-04-02,Monthly,883.42,15,4,11,Home Decor,Mumbai,India,yahoo.com,Desktop,Cash,1502.0,1,No,False
+CUST100615,Ayaan Das,29,Female,292155.0,INR,65,Gold,2024-12-16,2025-03-03,Monthly,4137.17,36,29,7,Grocery,Jaipur,India,gmail.com,iOS,Wallet,1553.0,5,No,False
+CUST100616,Ananya Iyer,46,Female,249699.0,INR,13,Silver,2021-11-13,2023-03-11,Monthly,756.77,67,57,10,Kids,Mumbai,India,rediffmail.com,Desktop,Credit Card,1484.0,3,Yes,False
+CUST100617,Vihaan Joshi,34,Male,70197281.0,USD,64,Basic,2022-01-12,2023-09-15,Rarely,7384.9,6,6,0,Kids,Chennai,India,gmail.com,Desktop,Credit Card,2531.0,1,Yes,True
+CUST100618,Neha Nair,24,Male,446386.0,INR,63,Silver,2024-12-21,2025-03-19,Monthly,902.88,15,5,10,Home Decor,Jaipur,India,outlook.com,iOS,Cash,0.0,2,No,False
+CUST100619,Myra Khan,34,Female,134537.0,INR,48,Silver,2024-07-17,2025-12-27,Rarely,2458.17,6,6,0,Kids,Mumbai,India,gmail.com,Android,UPI,1460.0,4,Yes,False
+CUST100620,Ira Joshi,34,Female,736970.0,INR,28,Basic,2024-06-10,2026-03-10,Rarely,941.83,13,8,5,Sports,Chennai,India,gmail.com,Android,Credit Card,1238.0,1,No,False
+CUST100621,Rahul Reddy,35,Female,736970.0,INR,19,Basic,2022-09-23,2022-12-07,Rarely,6924.31,26,18,8,Sports,Bengaluru,India,gmail.com,Desktop,Credit Card,1019.0,5,No,False
+CUST100622,Sara Sinha,37,Female,465511.0,INR,73,Platinum,2021-12-04,2023-12-08,Monthly,3182.87,50,26,24,Food Court,Chennai,India,gmail.com,Desktop,Debit Card,2171.0,3,Yes,True
+CUST100623,Krishna Khan,31,Male,529063.0,INR,48,Platinum,2023-07-26,2024-05-04,Rarely,1743.55,22,13,9,Books,Chennai,India,rediffmail.com,Android,Credit Card,1282.0,3,No,False
+CUST100624,Sara Reddy,34,Male,1260206.0,INR,71,Silver,2021-11-14,2022-05-09,Rarely,2380.93,8,1,7,Food Court,Hyderabad,India,gmail.com,iOS,UPI,2328.0,4,No,False
+CUST100625,Meera Patel,34,Female,540080.0,INR,87,Platinum,2023-03-16,2023-04-26,Monthly,1221.32,5,4,1,Books,Delhi,India,outlook.com,Android,UPI,1197.0,3,Yes,True
+CUST100626,Ananya Patel,22,Female,1664508.0,INR,14,Basic,2021-11-22,2022-12-22,Weekly,1929.09,20,9,11,Fashion,Bengaluru,India,gmail.com,iOS,Debit Card,746.0,1,Yes,False
+CUST100627,Ayaan Mishra,41,Male,970453.0,INR,65,Basic,2022-05-16,2023-10-27,Weekly,1947.46,10,2,8,Gaming,Pune,India,gmail.com,iOS,UPI,718.0,3,No,False
+CUST100628,Aadhya Chopra,49,Female,524629.0,INR,34,Gold,2022-06-01,2023-09-17,Weekly,869.93,91,61,30,Sports,Delhi,India,gmail.com,Desktop,UPI,795.0,4,No,False
+CUST100629,Aarav Das,46,Female,1825708.0,INR,90,Silver,2023-09-27,2024-10-01,Monthly,1721.08,0,0,0,Sports,Chennai,India,company.com,Android,Cash,1422.0,4,Yes,True
+CUST100630,Rahul Mehta,34,Female,86916319.0,USD,39,Silver,2022-01-27,2023-10-12,Monthly,595.57,51,18,33,Kids,Chennai,India,yahoo.com,Desktop,Debit Card,1148.0,1,No,False
+CUST100631,Krishna Nair,36,Female,67953886.5,USD,39,Silver,2024-10-11,2025-10-10,Monthly,1760.23,10,6,4,Gaming,Lucknow,India,hotmail.com,Desktop,Debit Card,1578.0,2,Yes,False
+CUST100633,Priya Khan,31,Other,12049217.0,USD,66,Basic,2025-04-02,2026-04-25,Rarely,3909.7,28,15,13,Books,Mumbai,India,gmail.com,Android,Credit Card,921.0,3,No,False
+CUST100634,Aadhya Sinha,58,Male,687299.0,INR,90,Silver,2022-02-11,2022-10-17,Rarely,945.78,50,13,37,Sports,Kolkata,India,hotmail.com,Android,Credit Card,425.0,3,Yes,False
+CUST100635,Ishaan Kumar,18,Female,786726.0,INR,58,Platinum,2023-11-24,2025-01-01,Rarely,998.91,56,28,28,Food Court,Hyderabad,India,gmail.com,Android,UPI,544.0,3,Yes,True
+CUST100636,Arjun Gupta,34,Male,1049802.0,INR,60,Silver,2021-01-23,2022-05-11,Rarely,844.96,34,19,15,Books,Bengaluru,India,hotmail.com,Android,UPI,1372.0,3,Yes,False
+CUST100637,Neha Sinha,41,Female,547799.0,INR,94,Basic,2022-03-22,2024-05-20,Monthly,4272.32,34,16,18,Gaming,Pune,India,company.com,iOS,Debit Card,1209.0,5,No,False
+CUST100638,Krishna Iyer,38,Male,557479.0,INR,47,Basic,2022-04-20,2024-06-07,Rarely,1330.54,6,4,2,Food Court,Chennai,India,hotmail.com,Android,Cash,1087.0,4,Yes,False
+CUST100639,Neha Das,33,Female,32080950.5,USD,19,Gold,2021-03-30,2022-11-20,Weekly,3072.53,40,10,30,Gaming,Kolkata,India,company.com,Desktop,Wallet,1310.0,3,No,False
+CUST100640,Vivaan Rao,37,Female,50367450.5,USD,67,Basic,2022-12-16,2025-01-13,Rarely,4644.87,15,4,11,Food Court,Chennai,India,hotmail.com,Android,Debit Card,1724.0,3,No,False
+CUST100641,Myra Mehta,51,Male,308096.0,INR,71,Silver,2021-03-08,2022-04-28,Rarely,519.71,8,0,8,Electronics,Ahmedabad,India,gmail.com,Desktop,UPI,1647.0,5,Yes,False
+CUST100642,Saanvi Sharma,30,Male,32187580.0,USD,57,Platinum,2022-11-20,2023-09-10,Weekly,2270.93,8,7,1,Electronics,Bengaluru,India,company.com,Android,Credit Card,1054.0,3,Yes,False
+CUST100643,Sai Das,31,Male,439677.0,INR,53,Platinum,2025-01-08,2025-12-07,Monthly,6993.69,1,0,1,Sports,Ahmedabad,India,yahoo.com,Desktop,UPI,1928.0,4,No,False
+CUST100645,Ananya Chopra,34,Other,423433.0,INR,46,Basic,2022-05-03,2024-04-07,Monthly,1850.87,3,0,3,Fashion,Ahmedabad,India,company.com,Desktop,UPI,1399.0,5,Yes,False
+CUST100646,Rahul Rao,38,Female,740720.0,INR,66,Platinum,2022-02-09,2024-03-22,Monthly,4912.16,1,1,0,Sports,Lucknow,India,yahoo.com,iOS,Debit Card,1532.0,1,No,False
+CUST100647,Riya Gupta,28,Other,270981.0,INR,48,Platinum,2025-06-10,2026-02-05,Weekly,983.44,14,9,5,Beauty,Delhi,India,gmail.com,Desktop,UPI,1636.0,3,No,False
+CUST100648,Sara Iyer,55,Female,956929.0,INR,11,Gold,2021-05-15,2022-07-18,Rarely,1965.27,57,36,21,Grocery,Jaipur,India,outlook.com,Android,Cash,1436.0,3,Yes,False
+CUST100649,Sara Mishra,36,Female,44831150.0,USD,67,Basic,2023-12-05,2024-09-02,Weekly,6820.46,35,15,20,Books,Ahmedabad,India,outlook.com,Desktop,Credit Card,729.0,5,No,True
+CUST100650,Sai Iyer,32,Male,559574.0,INR,90,Basic,2023-06-05,2024-04-07,Daily,3692.3,1,1,0,Grocery,Pune,India,gmail.com,iOS,Cash,1268.0,3,Yes,False
+CUST100651,Sai Iyer,29,Male,333750.0,INR,34,Platinum,2021-12-24,2023-06-02,Daily,6001.6,27,15,12,Home Decor,Delhi,India,company.com,Desktop,UPI,1265.0,4,No,False
+CUST100652,Aditya Patel,43,Male,1249715.0,INR,63,Gold,2023-12-31,2026-05-28,Rarely,1375.94,29,14,15,Electronics,Chennai,India,gmail.com,Android,Credit Card,679.0,3,Yes,False
+CUST100653,Amit Mishra,41,Female,373848.0,INR,22,Gold,2021-08-14,2022-07-21,Rarely,5940.11,5,5,0,Books,Delhi,India,outlook.com,Android,UPI,1862.0,2,Yes,False
+CUST100654,Saanvi Chopra,32,Female,435629.0,INR,66,Silver,2024-11-19,2026-01-25,Rarely,813.47,8,4,4,Beauty,Chennai,India,gmail.com,Android,Credit Card,300.0,1,Yes,False
+CUST100655,Rahul Nair,33,Male,736970.0,INR,45,Platinum,2023-03-31,2025-05-15,Rarely,2515.67,15,15,0,Food Court,Jaipur,India,gmail.com,Desktop,Debit Card,1935.0,5,No,False
+CUST100656,Diya Joshi,44,Female,463133.0,INR,49,Basic,2021-03-14,2022-06-02,Monthly,1478.93,9,8,1,Grocery,Lucknow,India,hotmail.com,Desktop,UPI,2001.0,3,No,True
+CUST100657,Aarav Reddy,39,Female,303455.0,INR,37,Basic,2023-09-13,2024-01-01,Rarely,1091.59,11,5,6,Grocery,Jaipur,India,gmail.com,Android,Debit Card,1606.0,1,No,False
+CUST100658,Krishna Mishra,42,Female,657131.0,INR,52,Silver,2021-05-02,2021-05-30,Weekly,2086.85,28,21,7,Books,Jaipur,India,rediffmail.com,Desktop,Debit Card,1266.0,3,Yes,False
+CUST100659,Vivaan Kapoor,31,Male,427008.0,INR,49,Platinum,2021-07-29,2022-02-02,Rarely,1353.83,40,11,29,Kids,Chennai,India,gmail.com,Android,Credit Card,1274.0,5,Yes,False
+CUST100660,Myra Joshi,32,Male,372459.0,INR,16,Gold,2023-03-16,2023-09-27,Monthly,679.44,35,10,25,Gaming,Chennai,India,rediffmail.com,Android,Credit Card,821.0,1,Yes,False
+CUST100661,Ira Kumar,43,Female,2539646.0,INR,34,Gold,2024-09-09,2026-05-15,Weekly,3691.37,29,17,12,Books,Bengaluru,India,gmail.com,iOS,Wallet,1116.0,1,No,False
+CUST100662,Reyansh Rao,41,Female,1302399.0,INR,65,Basic,2025-04-12,2025-10-28,Weekly,369.24,3,0,3,Sports,Kolkata,India,hotmail.com,iOS,Cash,543.0,4,Yes,False
+CUST100663,Aadhya Das,32,Male,84712503.5,USD,68,Basic,2021-03-16,2023-04-12,Daily,1850.5,15,5,10,Grocery,Bengaluru,India,gmail.com,Android,Credit Card,1200.0,4,No,False
